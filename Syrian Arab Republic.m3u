@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://b.top4top.io/p_2159gafcq1.jpg" group-title="",[color yellow]مرحبا بك في تطبيق Omar TV[/color]
+https://b.top4top.io/p_2159gafcq1.jpg
+
+#EXTINF:0,[Omar TV] SYRIA STREAM
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
+#EXTINF:0,[Omar TV] SAMA
+https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/111.ts
+#EXTINF:0,[Omar TV] ALSYRIAY
+http://82.137.248.16:1935/Sat/stream19042021/chunklist_w212426447.m3u8
+#EXTINF:0,[Omar TV] SYRIA DRAMA
+http://82.137.248.16:1935/Drama/stream19042021/chunklist.m3u8
+#EXTINF:0,[Omar TV] Tarbaouia
+http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
+#EXTINF:0,[Omar TV] Noor Sham
+http://82.137.248.16:1935/Nour/stream19042021/chunklist_w1258711067.m3u8
+#EXTINF:0,[Omar TV] Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:0,[Omar TV] ALARABY
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:0,[Omar TV] LANA 
+http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
+#EXTINF:0,[Omar TV] LANA PLUS 
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:0,[Omar TV] Alikhbaria Syria 
+http://vod.alikhbaria.net:1935/Snews/stream19042021/chunklist_w831115281.m3u8
+#EXTINF:0,[Omar TV] ALYAUM TV 
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:0,[Omar TV] ALALAM SYRIA
+https://live2.presstv.ir/live/alam_360p/chunklist_w1165767782.m3u8
+#EXTINF:0,[Omar TV] SOURYANA
+http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8?DVR
