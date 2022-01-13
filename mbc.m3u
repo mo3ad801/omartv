@@ -25,7 +25,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://f.top4top.io/p_2203mkv8r1.jpg" group-title="",[color red ]mbc masr 2[/color]
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://b.top4top.io/p_220319rzl1.jpg" group-title="",[color black ]mbc max[/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://b.top4top.io/p_220319rzl1.jpg" group-title="",[color green  ]mbc max[/color]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.204:2200/TN/mbcmax-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://h.top4top.io/p_2203fbpaj1.jpg" group-title="",[color red ]mbc 1[/color]
