@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo=". " group-title="",[color red]مرحبا بك في تطبيق  OMAR TV[/color]
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://f.top4top.io/p_2203gquhg1.jpg" group-title="",[color yellow]mbc 1[/color]
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://g.top4top.io/p_22032rehj1.jpg" group-title="",[color yellow]mbc 2[/color]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/TN/mbc2-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://a.top4top.io/p_2203lsv3v1.jpg" group-title="",[color yellow]mbc 3[/color]
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://l.top4top.io/p_220376a9f1.jpg" group-title="",[color yellow]mbc 4[/color]
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://e.top4top.io/p_2203ap1y41.jpg" group-title="",[color yellow]mbc 5[/color]
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://d.top4top.io/p_2203wz9iz1.jpg " group-title="",[color red]mbc bollywood[/color]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://c.top4top.io/p_2203605zb1.jpg" group-title="",[color White ]mbc drama[/color]
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://c.top4top.io/p_2203605zb1.jpg" group-title="",[color grey ]mbc drama plus[/color]
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://g.top4top.io/p_2203m8t3g1.jpg" group-title="",[color Brown ]mbc iraq[/color]
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://h.top4top.io/p_2203l1tu01.jpg" group-title="",[color red ]mbc masr 1[/color]
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://f.top4top.io/p_2203mkv8r1.jpg" group-title="",[color red ]mbc masr 2[/color]
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://b.top4top.io/p_220319rzl1.jpg" group-title="",[color black ]mbc max[/color]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/TN/mbcmax-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://h.top4top.io/p_2203fbpaj1.jpg" group-title="",[color red ]mbc 1[/color]
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+EXTINF#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://k.top4top.io/p_2203k0txx1.jpg" group-title="",[color yellow]mbc action [/color]:0,[NSAER TV] 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/TN/mbcaction-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
