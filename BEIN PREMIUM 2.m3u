@@ -1,22 +1,22 @@
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2 HD سيرفر 1
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",BEIN PREMIUM 2 HD سيرفر 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.205:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=STATIC
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2 SD سيرفر 1
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",BEIN PREMIUM 2 SD سيرفر 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.205:2200/EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=STATIC
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM HD سيرفر 2
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",beIN Sports 2 PREMIUM HD سيرفر 2
 http://1.banglokora.xyz/live/6161949878/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM SD سيرفر 2
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",beIN Sports 2 PREMIUM SD سيرفر 2
 http://b.banourahga.xyz/live/794812458/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",Sports 2 PREMIUM LOW  سيرفر 2
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",Sports 2 PREMIUM LOW  سيرفر 2
 http://1.banglokora.xyz/live/1222338888/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM HD سيرفر 3 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",beIN Sports 2 PREMIUM HD سيرفر 3 
 http://bestsave.ltd:2052/live/55667788/88776655/90294.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM SD سيرفر 3 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://f.top4top.io/p_2207nm6bc0.jpeg",beIN Sports 2 PREMIUM SD سيرفر 3 
 http://bestsave.ltd:2052/live/55667788/88776655/90283.m3u8
