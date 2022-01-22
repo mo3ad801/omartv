@@ -1,17 +1,3 @@
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",BEIN PREMIUM 1 HD سيرفر 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.204:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",BEIN PREMIUM 1 SD سيرفر   1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.204:2200/EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",beIN Sports 1 PREMIUM HD سيرفر 2
-http://b.banourahga.xyz/live/61616/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",beIN Sports 1 PREMIUM SD سيرفر 2 
-http://b.banourahga.xyz/live/88824/index.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",beIN Sports 1 PREMIUM HD سيرفر 3 
