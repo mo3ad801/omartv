@@ -1,19 +1,6 @@
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://e.top4top.io/p_22071ad6p0.png",BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.204:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://e.top4top.io/p_22071ad6p0.png",BEIN SPORT 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.204:2200/EX/bein1sd-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://e.top4top.io/p_22071ad6p0.png",beIN Sports 1 HD
-http://1.banglokora.xyz/live/918454578001/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://e.top4top.io/p_22071ad6p0.png",beIN Sports 1 SD
-http://1.banglokora.xyz/live/978488877005/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://e.top4top.io/p_22071ad6p0.png",beIN Sports 1 LOW
-http://1.banglokora.xyz/live/31009988005/index.m3u8
+http://b.banourahga.xyz/live/918454578001/index.m3u8?t=nx4jCHHB-sPjs2R6b-IFiA&e=1642863462
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://e.top4top.io/p_22071ad6p0.png",beIN Sports 1 HD
 http://bestsave.ltd:2052/live/55667788/88776655/90292.m3u8
