@@ -8,8 +8,35 @@
 
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",beIN Sports 1 PREMIUM HD  
-http://d.banourahga.xyz/live/61616/index.m3u8?t=d__tM58KpiGGjRmlU2L_qQ&e=1643288926
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://h.top4top.io/p_2207rnapn0.jpeg",beIN Sports 1 PREMIUM SD  
-http://d.banourahga.xyz/live/88824/index.m3u8?t=Ugl8Xs17gXD2MCl1FMJGuQ&e=1643288945
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/490
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/491
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/492
+#EXTINF:-1,beIN SPORTS1 H265
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/493
+#EXTINF:-1,beIN SPORTS2 H265
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/494
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/495
+#EXTINF:-1,beIN SPORTS PREMIUM1 HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/496
+#EXTINF:-1,beIN SPORTS PREMIUM2 HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/497
+#EXTINF:-1,beIN SPORTS PREMIUM3 HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/498
+#EXTINF:-1,beIN SPORTS 1HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/499
+#EXTINF:-1,beIN SPORTS 2HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/500
+#EXTINF:-1,beIN SPORTS 3HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/501
+#EXTINF:-1,beIN SPORTS 4HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/502
+#EXTINF:-1,beIN SPORTS 5HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/503
+#EXTINF:-1,beIN SPORTS 6HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/504
+#EXTINF:-1,beIN SPORTS 7HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/505
