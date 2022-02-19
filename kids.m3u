@@ -1,58 +1,52 @@
-#EXTINF:-1 tvg-id="" tvg-name="BOOMRANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSt2t6yjm4xU4zB2jI9sKya6x_J2dfmZW8ekxoMIhT8Iyrhrf_6&usqp=CAU" group-title="KIDS Channel",BOOMRANG
-http://eaiptv.net:8888/future2/future2/4884
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS Channel",Cartoon Network
-http://eaiptv.net:8888/future2/future2/5116
-#EXTINF:-1 tvg-id="" tvg-name="beIN BOOMERANG HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Bloomberg-1.png" group-title="Bein Movies HD 265",beIN BOOMERANG HD
-http://eaiptv.net:8888/future2/future2/10465
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH-ENG" tvg-logo="" group-title="KIDS Channel",DISNEY CH-ENG
-http://eaiptv.net:8888/future2/future2/26710
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD-ENG" tvg-logo="" group-title="KIDS Channel",DISNEY XD-ENG
-http://eaiptv.net:8888/future2/future2/26711
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR-ENG" tvg-logo="" group-title="KIDS Channel",DISNEY JUNIOR-ENG
-http://eaiptv.net:8888/future2/future2/26712
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="KIDS Channel",Disney Channel HD
-http://eaiptv.net:8888/future2/future2/26713
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL WEST | HD" tvg-logo="" group-title="KIDS Channel",DISNEY CHANNEL WEST | HD
-http://eaiptv.net:8888/future2/future2/26714
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NET HD US" tvg-logo="" group-title="KIDS Channel",CARTOON NET HD US
-http://eaiptv.net:8888/future2/future2/26715
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="KIDS Channel",DISNEY CINEMA
-http://eaiptv.net:8888/future2/future2/26716
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="KIDS Channel",DISNEY JUNIOR
-http://eaiptv.net:8888/future2/future2/26717
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON EN" tvg-logo="" group-title="KIDS Channel",NICKELODEON EN
-http://eaiptv.net:8888/future2/future2/26718
-#EXTINF:-1 tvg-id="" tvg-name="Nicklodeon Junior" tvg-logo="" group-title="KIDS Channel",Nicklodeon Junior
-http://eaiptv.net:8888/future2/future2/26719
-#EXTINF:-1 tvg-id="" tvg-name="Nicklodeon" tvg-logo="" group-title="KIDS Channel",Nicklodeon
-http://eaiptv.net:8888/future2/future2/26720
-#EXTINF:-1 tvg-id="" tvg-name="GULLI ARABI" tvg-logo="" group-title="KIDS Channel",GULLI ARABI
-http://eaiptv.net:8888/future2/future2/26721
-#EXTINF:-1 tvg-id="" tvg-name="BARAEM" tvg-logo="" group-title="KIDS Channel",BARAEM
-http://eaiptv.net:8888/future2/future2/26722
-#EXTINF:-1 tvg-id="" tvg-name="BABY CHANNEL" tvg-logo="" group-title="KIDS Channel",BABY CHANNEL
-http://eaiptv.net:8888/future2/future2/26724
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="KIDS Channel",Rotana Kids
-http://eaiptv.net:8888/future2/future2/26725
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONNETARABIC" tvg-logo="" group-title="KIDS Channel",CARTOONNETARABIC
-http://eaiptv.net:8888/future2/future2/26727
-#EXTINF:-1 tvg-id="" tvg-name="BATTOUT TV" tvg-logo="" group-title="KIDS Channel",BATTOUT TV
-http://eaiptv.net:8888/future2/future2/26728
-#EXTINF:-1 tvg-id="" tvg-name="ATFAL W MAWAHEB" tvg-logo="" group-title="KIDS Channel",ATFAL W MAWAHEB
-http://eaiptv.net:8888/future2/future2/26729
-#EXTINF:-1 tvg-id="" tvg-name="SPACE TOON" tvg-logo="" group-title="KIDS Channel",SPACE TOON
-http://eaiptv.net:8888/future2/future2/26730
-#EXTINF:-1 tvg-id="" tvg-name="TOYOR BABY" tvg-logo="" group-title="KIDS Channel",TOYOR BABY
-http://eaiptv.net:8888/future2/future2/26731
-#EXTINF:-1 tvg-id="" tvg-name="HODHOD TV" tvg-logo="" group-title="KIDS Channel",HODHOD TV
-http://eaiptv.net:8888/future2/future2/26732
-#EXTINF:-1 tvg-id="" tvg-name="KARAMEESH" tvg-logo="" group-title="KIDS Channel",KARAMEESH
-http://eaiptv.net:8888/future2/future2/26733
-#EXTINF:-1 tvg-id="" tvg-name="Majed" tvg-logo="" group-title="KIDS Channel",Majed
-http://eaiptv.net:8888/future2/future2/26734
-#EXTINF:-1 tvg-id="" tvg-name="TAHA" tvg-logo="" group-title="KIDS Channel",TAHA
-http://eaiptv.net:8888/future2/future2/26735
-#EXTINF:-1 tvg-id="" tvg-name="TiJI" tvg-logo="" group-title="KIDS Channel",TiJI
-http://eaiptv.net:8888/future2/future2/26736
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="" group-title="KIDS Channel",Gulli
-http://eaiptv.net:8888/future2/future2/26737
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Disney HD" tvg-logo="" group-title="KIDS TV",|Kids| Disney HD
+http://red.ipfox.org:8080/hossam654/h75521858/37488
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Bein Junior" tvg-logo="" group-title="KIDS TV",|Kids| Bein Junior
+http://red.ipfox.org:8080/hossam654/h75521858/37487
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Boomerang" tvg-logo="" group-title="KIDS TV",|Kids| Boomerang
+http://red.ipfox.org:8080/hossam654/h75521858/37486
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| TIJI" tvg-logo="" group-title="KIDS TV",|Kids| TIJI
+http://red.ipfox.org:8080/hossam654/h75521858/25923
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Fix Foxi" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16935.png" group-title="KIDS TV",|Kids| Fix Foxi
+http://red.ipfox.org:8080/hossam654/h75521858/2286
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| MBC 3 HD" tvg-logo="" group-title="KIDS TV",|Kids| MBC 3 HD
+http://red.ipfox.org:8080/hossam654/h75521858/25056
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Rotana Kids" tvg-logo="" group-title="KIDS TV",|Kids| Rotana Kids
+http://red.ipfox.org:8080/hossam654/h75521858/25057
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| OSN Kid Zone TV" tvg-logo="" group-title="KIDS TV",|Kids| OSN Kid Zone TV
+http://red.ipfox.org:8080/hossam654/h75521858/30416
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| ZooMoo" tvg-logo="" group-title="KIDS TV",|Kids| ZooMoo
+http://red.ipfox.org:8080/hossam654/h75521858/30417
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| CN Arabia" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17534.jpg" group-title="KIDS TV",|Kids| CN Arabia
+http://red.ipfox.org:8080/hossam654/h75521858/2931
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Nicktoons" tvg-logo="" group-title="KIDS TV",|Kids| Nicktoons
+http://red.ipfox.org:8080/hossam654/h75521858/30414
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Nick Jr." tvg-logo="" group-title="KIDS TV",|Kids| Nick Jr.
+http://red.ipfox.org:8080/hossam654/h75521858/30413
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| beIN Baby" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16950.png" group-title="KIDS TV",|Kids| beIN Baby
+http://red.ipfox.org:8080/hossam654/h75521858/2301
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| beIN Jeem" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16952.png" group-title="KIDS TV",|Kids| beIN Jeem
+http://red.ipfox.org:8080/hossam654/h75521858/2303
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| beIN Baraem" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16951.png" group-title="KIDS TV",|Kids| beIN Baraem
+http://red.ipfox.org:8080/hossam654/h75521858/2302
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Gulli Arabie HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17495.jpg" group-title="KIDS TV",|Kids| Gulli Arabie HD
+http://red.ipfox.org:8080/hossam654/h75521858/2853
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Disney Junior HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17499.png" group-title="KIDS TV",|Kids| Disney Junior HD
+http://red.ipfox.org:8080/hossam654/h75521858/2857
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Kids Baby Channel" tvg-logo="" group-title="KIDS TV",|Kids| Kids Baby Channel
+http://red.ipfox.org:8080/hossam654/h75521858/25061
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| HodHod" tvg-logo="" group-title="KIDS TV",|Kids| HodHod
+http://red.ipfox.org:8080/hossam654/h75521858/25060
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| ZAYTOONA" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17525.png" group-title="KIDS TV",|Kids| ZAYTOONA
+http://red.ipfox.org:8080/hossam654/h75521858/2922
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| TOYOR ALJANAH" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17527.png" group-title="KIDS TV",|Kids| TOYOR ALJANAH
+http://red.ipfox.org:8080/hossam654/h75521858/2924
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| TAHA" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17528.png" group-title="KIDS TV",|Kids| TAHA
+http://red.ipfox.org:8080/hossam654/h75521858/2925
+#EXTINF:-1 tvg-id="" tvg-name="|kids| SPACETOON ARABIC" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17529.png" group-title="KIDS TV",|kids| SPACETOON ARABIC
+http://red.ipfox.org:8080/hossam654/h75521858/2926
+#EXTINF:-1 tvg-id="" tvg-name="|kids| SAT-7 KIDS" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17531.png" group-title="KIDS TV",|kids| SAT-7 KIDS
+http://red.ipfox.org:8080/hossam654/h75521858/2928
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| KARAMEESH" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17533.png" group-title="KIDS TV",|Kids| KARAMEESH
+http://red.ipfox.org:8080/hossam654/h75521858/2930
+#EXTINF:-1 tvg-id="" tvg-name="|Kids| Atfal &amp; mawaheb" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17535.png" group-title="KIDS TV",|Kids| Atfal &amp; mawaheb
+http://red.ipfox.org:8080/hossam654/h75521858/2932
