@@ -2,31 +2,49 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://b.top4top.io/p_2159gafcq1.jpg" group-title="",[color yellow]مرحبا بك في تطبيق Omar TV[/color]
 https://b.top4top.io/p_2159gafcq1.jpg
 
-#EXTINF:0,[Omar TV] SYRIA STREAM
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:0,[Omar TV] SAMA
-https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/111.ts
-#EXTINF:0,[Omar TV] ALSYRIAY
-http://82.137.248.16:1935/Sat/stream19042021/chunklist_w212426447.m3u8
-#EXTINF:0,[Omar TV] SYRIA DRAMA
-http://82.137.248.16:1935/Drama/stream19042021/chunklist.m3u8
-#EXTINF:0,[Omar TV] Tarbaouia
-http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
-#EXTINF:0,[Omar TV] Noor Sham
-http://82.137.248.16:1935/Nour/stream19042021/chunklist_w1258711067.m3u8
-#EXTINF:0,[Omar TV] Halab Today TV
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:0,[Omar TV] ALARABY
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:0,[Omar TV] LANA 
-http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
-#EXTINF:0,[Omar TV] LANA PLUS 
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:0,[Omar TV] Alikhbaria Syria 
-http://vod.alikhbaria.net:1935/Snews/stream19042021/chunklist_w831115281.m3u8
-#EXTINF:0,[Omar TV] ALYAUM TV 
-https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:0,[Omar TV] ALALAM SYRIA
-https://live2.presstv.ir/live/alam_360p/chunklist_w1165767782.m3u8
-#EXTINF:0,[Omar TV] SOURYANA
-http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="|SY| SYRIA CH 1" tvg-logo="" group-title="ARABIC TV",|SY| SYRIA CH 1
+http://red.ipfox.org:8080/hossam654/h75521858/33710
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Syrian TV HD" tvg-logo="" group-title="ARABIC TV",|SY| Syrian TV HD
+http://red.ipfox.org:8080/hossam654/h75521858/33711
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Syria Drama 24" tvg-logo="" group-title="ARABIC TV",|SY| Syria Drama 24
+http://red.ipfox.org:8080/hossam654/h75521858/33712
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Lana TV HD" tvg-logo="" group-title="ARABIC TV",|SY| Lana TV HD
+http://red.ipfox.org:8080/hossam654/h75521858/33713
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Lana TV HD +4" tvg-logo="" group-title="ARABIC TV",|SY| Lana TV HD +4
+http://red.ipfox.org:8080/hossam654/h75521858/33714
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Lana Plus" tvg-logo="" group-title="ARABIC TV",|SY| Lana Plus
+http://red.ipfox.org:8080/hossam654/h75521858/33715
+#EXTINF:-1 tvg-id="" tvg-name="|SY| SPORT 24" tvg-logo="" group-title="ARABIC TV",|SY| SPORT 24
+http://red.ipfox.org:8080/hossam654/h75521858/33716
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Sham FM" tvg-logo="" group-title="ARABIC TV",|SY| Sham FM
+http://red.ipfox.org:8080/hossam654/h75521858/33717
+#EXTINF:-1 tvg-id="" tvg-name="|SY| SYRIA SATELLITE TV" tvg-logo="" group-title="ARABIC TV",|SY| SYRIA SATELLITE TV
+http://red.ipfox.org:8080/hossam654/h75521858/33718
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Halab Today TV" tvg-logo="" group-title="ARABIC TV",|SY| Halab Today TV
+http://red.ipfox.org:8080/hossam654/h75521858/33719
+#EXTINF:-1 tvg-id="" tvg-name="|SY| SUROYO TV" tvg-logo="" group-title="ARABIC TV",|SY| SUROYO TV
+http://red.ipfox.org:8080/hossam654/h75521858/33720
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Minbij TV" tvg-logo="" group-title="ARABIC TV",|SY| Minbij TV
+http://red.ipfox.org:8080/hossam654/h75521858/33721
+#EXTINF:-1 tvg-id="" tvg-name="|SY| SYRIAN EDUCATION" tvg-logo="" group-title="ARABIC TV",|SY| SYRIAN EDUCATION
+http://red.ipfox.org:8080/hossam654/h75521858/33722
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Al Yawm (syria)" tvg-logo="" group-title="ARABIC TV",|SY| Al Yawm (syria)
+http://red.ipfox.org:8080/hossam654/h75521858/33723
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Syrian Drama TV" tvg-logo="" group-title="ARABIC TV",|SY| Syrian Drama TV
+http://red.ipfox.org:8080/hossam654/h75521858/33724
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Syrian Drama TV +4" tvg-logo="" group-title="ARABIC TV",|SY| Syrian Drama TV +4
+http://red.ipfox.org:8080/hossam654/h75521858/33725
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Al-Khabar Tele Site" tvg-logo="" group-title="ARABIC TV",|SY| Al-Khabar Tele Site
+http://red.ipfox.org:8080/hossam654/h75521858/33727
+#EXTINF:-1 tvg-id="" tvg-name="|SY| SAFA TV" tvg-logo="" group-title="ARABIC TV",|SY| SAFA TV
+http://red.ipfox.org:8080/hossam654/h75521858/33728
+#EXTINF:-1 tvg-id="" tvg-name="|SY| AL SAHAT" tvg-logo="" group-title="ARABIC TV",|SY| AL SAHAT
+http://red.ipfox.org:8080/hossam654/h75521858/33729
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Sama TV" tvg-logo="" group-title="ARABIC TV",|SY| Sama TV
+http://red.ipfox.org:8080/hossam654/h75521858/33731
+#EXTINF:-1 tvg-id="" tvg-name="|SY| Nour Al Sham TV" tvg-logo="" group-title="ARABIC TV",|SY| Nour Al Sham TV
+http://red.ipfox.org:8080/hossam654/h75521858/33732
+#EXTINF:-1 tvg-id="" tvg-name="|SY| AL EKHBARIYA AL SORIYA" tvg-logo="" group-title="ARABIC TV",|SY| AL EKHBARIYA AL SORIYA
+http://red.ipfox.org:8080/hossam654/h75521858/33733
+#EXTINF:-1 tvg-id="" tvg-name="|SY| AIC" tvg-logo="" group-title="ARABIC TV",|SY| AIC
+http://red.ipfox.org:8080/hossam654/h75521858/33734
