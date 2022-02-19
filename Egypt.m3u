@@ -1,36 +1,112 @@
-#EXTINF:-1,AR: ON Time Sport 1HD
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/156
-#EXTINF:-1,AR: ON Time Sport 2 HD
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/157
-#EXTINF:-1,AR: ON Time Sport 3
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/158
-#EXTINF:-1,AR: Alahly
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/159
-#EXTINF:-1,AR: Zamalek TV
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/160
-#EXTINF:-1,AR: :Al Oula
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/161
-#EXTINF:-1,AR:  Sada Elbabad
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/162
-#EXTINF:-1,AR:  Nile Sport
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/163
-#EXTINF:-1,AR:  Nile Comedy
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/164
-#EXTINF:-1,AR: Nile News
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/165
-#EXTINF:-1,AR:CBC Drama
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/167
-#EXTINF:-1,AR:CBC Sofra
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/168
-#EXTINF:-1,AR:CBC
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/169
-#EXTINF:-1,AR: ON Drama
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/172
-#EXTINF:-1,AR: ON E
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/173
-#EXTINF:-1,AR:  Maspero-Zaman
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/174
-#EXTINF:-1,AR : Zee Alwan
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/176
-#EXTINF:-1,AR : ZEE AFLAM
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/177
+#EXTINF:-1 tvg-id="" tvg-name="|EG| AL OULA" tvg-logo="" group-title="ARABIC TV",|EG| AL OULA
+http://red.ipfox.org:8080/hossam654/h75521858/33147
+#EXTINF:-1 tvg-id="" tvg-name="|EG| AL Thanya" tvg-logo="" group-title="ARABIC TV",|EG| AL Thanya
+http://red.ipfox.org:8080/hossam654/h75521858/33148
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile TV" tvg-logo="" group-title="ARABIC TV",|EG| Nile TV
+http://red.ipfox.org:8080/hossam654/h75521858/33149
+#EXTINF:-1 tvg-id="" tvg-name="|EG| AL Masriya" tvg-logo="" group-title="ARABIC TV",|EG| AL Masriya
+http://red.ipfox.org:8080/hossam654/h75521858/33150
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Mekameleen HD" tvg-logo="" group-title="ARABIC TV",|EG| Mekameleen HD
+http://red.ipfox.org:8080/hossam654/h75521858/33151
+#EXTINF:-1 tvg-id="" tvg-name="|EG| El Sharq" tvg-logo="" group-title="ARABIC TV",|EG| El Sharq
+http://red.ipfox.org:8080/hossam654/h75521858/33152
+#EXTINF:-1 tvg-id="" tvg-name="|EG| WATAN TV" tvg-logo="" group-title="ARABIC TV",|EG| WATAN TV
+http://red.ipfox.org:8080/hossam654/h75521858/33153
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Mehwar" tvg-logo="" group-title="ARABIC TV",|EG| Mehwar
+http://red.ipfox.org:8080/hossam654/h75521858/33154
+#EXTINF:-1 tvg-id="" tvg-name="|EG| CBC" tvg-logo="" group-title="ARABIC TV",|EG| CBC
+http://red.ipfox.org:8080/hossam654/h75521858/33155
+#EXTINF:-1 tvg-id="" tvg-name="|EG| CBC Sofra" tvg-logo="" group-title="ARABIC TV",|EG| CBC Sofra
+http://red.ipfox.org:8080/hossam654/h75521858/33156
+#EXTINF:-1 tvg-id="" tvg-name="|EG| CBC Drama" tvg-logo="" group-title="ARABIC TV",|EG| CBC Drama
+http://red.ipfox.org:8080/hossam654/h75521858/33157
+#EXTINF:-1 tvg-id="" tvg-name="|EG| CBC Extra" tvg-logo="" group-title="ARABIC TV",|EG| CBC Extra
+http://red.ipfox.org:8080/hossam654/h75521858/33158
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Dream 2" tvg-logo="" group-title="ARABIC TV",|EG| Dream 2
+http://red.ipfox.org:8080/hossam654/h75521858/33159
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ON E HD" tvg-logo="" group-title="ARABIC TV",|EG| ON E HD
+http://red.ipfox.org:8080/hossam654/h75521858/33160
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ON Drama" tvg-logo="" group-title="ARABIC TV",|EG| ON Drama
+http://red.ipfox.org:8080/hossam654/h75521858/33161
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ON TIME SPORT 1" tvg-logo="" group-title="ARABIC TV",|EG| ON TIME SPORT 1
+http://red.ipfox.org:8080/hossam654/h75521858/33162
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ON TIME SPORT 2" tvg-logo="" group-title="ARABIC TV",|EG| ON TIME SPORT 2
+http://red.ipfox.org:8080/hossam654/h75521858/33163
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ON TIME SPORT 3" tvg-logo="" group-title="ARABIC TV",|EG| ON TIME SPORT 3
+http://red.ipfox.org:8080/hossam654/h75521858/33164
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Al Nahar" tvg-logo="" group-title="ARABIC TV",|EG| Al Nahar
+http://red.ipfox.org:8080/hossam654/h75521858/33165
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Al Nahar Drama" tvg-logo="" group-title="ARABIC TV",|EG| Al Nahar Drama
+http://red.ipfox.org:8080/hossam654/h75521858/33166
+#EXTINF:-1 tvg-id="" tvg-name="|EG| TeN TV" tvg-logo="" group-title="ARABIC TV",|EG| TeN TV
+http://red.ipfox.org:8080/hossam654/h75521858/33167
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Sada ElBalad HD" tvg-logo="" group-title="ARABIC TV",|EG| Sada ElBalad HD
+http://red.ipfox.org:8080/hossam654/h75521858/33168
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Sada ElBalad Plus" tvg-logo="" group-title="ARABIC TV",|EG| Sada ElBalad Plus
+http://red.ipfox.org:8080/hossam654/h75521858/33169
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Sada ElBalad Drama" tvg-logo="" group-title="ARABIC TV",|EG| Sada ElBalad Drama
+http://red.ipfox.org:8080/hossam654/h75521858/33170
+#EXTINF:-1 tvg-id="" tvg-name="|EG| AlKahera Wal Nas 1" tvg-logo="" group-title="ARABIC TV",|EG| AlKahera Wal Nas 1
+http://red.ipfox.org:8080/hossam654/h75521858/33171
+#EXTINF:-1 tvg-id="" tvg-name="|EG| AlKahera Wal Nas +2" tvg-logo="" group-title="ARABIC TV",|EG| AlKahera Wal Nas +2
+http://red.ipfox.org:8080/hossam654/h75521858/33172
+#EXTINF:-1 tvg-id="" tvg-name="|EG| DMC HD" tvg-logo="" group-title="ARABIC TV",|EG| DMC HD
+http://red.ipfox.org:8080/hossam654/h75521858/33173
+#EXTINF:-1 tvg-id="" tvg-name="|EG| DMC Drama" tvg-logo="" group-title="ARABIC TV",|EG| DMC Drama
+http://red.ipfox.org:8080/hossam654/h75521858/33174
+#EXTINF:-1 tvg-id="" tvg-name="|EG| AL Hayat" tvg-logo="" group-title="ARABIC TV",|EG| AL Hayat
+http://red.ipfox.org:8080/hossam654/h75521858/33175
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Al Hayat Muslsalat" tvg-logo="" group-title="ARABIC TV",|EG| Al Hayat Muslsalat
+http://red.ipfox.org:8080/hossam654/h75521858/33176
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Al Hayat We Alnas" tvg-logo="" group-title="ARABIC TV",|EG| Al Hayat We Alnas
+http://red.ipfox.org:8080/hossam654/h75521858/33177
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Panorama Food" tvg-logo="" group-title="ARABIC TV",|EG| Panorama Food
+http://red.ipfox.org:8080/hossam654/h75521858/33178
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Panorama Drama 1" tvg-logo="" group-title="ARABIC TV",|EG| Panorama Drama 1
+http://red.ipfox.org:8080/hossam654/h75521858/33179
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Panorama Drama 2" tvg-logo="" group-title="ARABIC TV",|EG| Panorama Drama 2
+http://red.ipfox.org:8080/hossam654/h75521858/33180
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Panorama Film" tvg-logo="" group-title="ARABIC TV",|EG| Panorama Film
+http://red.ipfox.org:8080/hossam654/h75521858/33181
+#EXTINF:-1 tvg-id="" tvg-name="|EG| EDUC 1" tvg-logo="" group-title="ARABIC TV",|EG| EDUC 1
+http://red.ipfox.org:8080/hossam654/h75521858/33182
+#EXTINF:-1 tvg-id="" tvg-name="|EG| TEBA" tvg-logo="" group-title="ARABIC TV",|EG| TEBA
+http://red.ipfox.org:8080/hossam654/h75521858/33183
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ALSeha Waljamal" tvg-logo="" group-title="ARABIC TV",|EG| ALSeha Waljamal
+http://red.ipfox.org:8080/hossam654/h75521858/33184
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Misr Al Zera3eya" tvg-logo="" group-title="ARABIC TV",|EG| Misr Al Zera3eya
+http://red.ipfox.org:8080/hossam654/h75521858/33185
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Al Kahera" tvg-logo="" group-title="ARABIC TV",|EG| Al Kahera
+http://red.ipfox.org:8080/hossam654/h75521858/33186
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ALDELTA" tvg-logo="" group-title="ARABIC TV",|EG| ALDELTA
+http://red.ipfox.org:8080/hossam654/h75521858/33187
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ALASKANDRIA" tvg-logo="" group-title="ARABIC TV",|EG| ALASKANDRIA
+http://red.ipfox.org:8080/hossam654/h75521858/33188
+#EXTINF:-1 tvg-id="" tvg-name="|EG| ALSA3EED" tvg-logo="" group-title="ARABIC TV",|EG| ALSA3EED
+http://red.ipfox.org:8080/hossam654/h75521858/33189
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Cima" tvg-logo="" group-title="ARABIC TV",|EG| Cima
+http://red.ipfox.org:8080/hossam654/h75521858/33190
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile News" tvg-logo="" group-title="ARABIC TV",|EG| Nile News
+http://red.ipfox.org:8080/hossam654/h75521858/33191
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile Life" tvg-logo="" group-title="ARABIC TV",|EG| Nile Life
+http://red.ipfox.org:8080/hossam654/h75521858/33192
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile Family" tvg-logo="" group-title="ARABIC TV",|EG| Nile Family
+http://red.ipfox.org:8080/hossam654/h75521858/33193
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile Drama" tvg-logo="" group-title="ARABIC TV",|EG| Nile Drama
+http://red.ipfox.org:8080/hossam654/h75521858/33194
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile Culture" tvg-logo="" group-title="ARABIC TV",|EG| Nile Culture
+http://red.ipfox.org:8080/hossam654/h75521858/33195
+#EXTINF:-1 tvg-id="" tvg-name="|EG| NILE COMEDY" tvg-logo="" group-title="ARABIC TV",|EG| NILE COMEDY
+http://red.ipfox.org:8080/hossam654/h75521858/33196
+#EXTINF:-1 tvg-id="" tvg-name="|EG| NILE CINEMA" tvg-logo="" group-title="ARABIC TV",|EG| NILE CINEMA
+http://red.ipfox.org:8080/hossam654/h75521858/33197
+#EXTINF:-1 tvg-id="" tvg-name="|EG| MISR ELBALAD" tvg-logo="" group-title="ARABIC TV",|EG| MISR ELBALAD
+http://red.ipfox.org:8080/hossam654/h75521858/33198
+#EXTINF:-1 tvg-id="" tvg-name="|EG| SOWT MISR ALAMAMI TV" tvg-logo="" group-title="ARABIC TV",|EG| SOWT MISR ALAMAMI TV
+http://red.ipfox.org:8080/hossam654/h75521858/33199
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Nile Sport" tvg-logo="" group-title="ARABIC TV",|EG| Nile Sport
+http://red.ipfox.org:8080/hossam654/h75521858/33200
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Al Ahly" tvg-logo="" group-title="ARABIC TV",|EG| Al Ahly
+http://red.ipfox.org:8080/hossam654/h75521858/33201
+#EXTINF:-1 tvg-id="" tvg-name="|EG| Zamalek" tvg-logo="" group-title="ARABIC TV",|EG| Zamalek
+http://red.ipfox.org:8080/hossam654/h75521858/33202
