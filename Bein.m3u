@@ -67,3 +67,60 @@ http://89.163.222.76:8080/qwq/qeeqwqe/36
 #EXTINF:-1,bein boyah live
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.163.222.76:8080/qwq/qeeqwqe/37
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Premium 1 HD" tvg-logo="" group-title="",SPO: beIN Sports Premium 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/1
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Premium 2 HD" tvg-logo="" group-title="",SPO: beIN Sports Premium 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/2
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Premium 3 HD" tvg-logo="" group-title="",SPO: beIN Sports Premium 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/3
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 1 HD" tvg-logo="" group-title="",SPO: beIN Sports 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/4
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 2 HD" tvg-logo="" group-title="",SPO: beIN Sports 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/5
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 3 HD" tvg-logo="" group-title="",SPO: beIN Sports 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/6
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 4 HD" tvg-logo="" group-title="",SPO: beIN Sports 4 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/7
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 5 HD" tvg-logo="" group-title="",SPO: beIN Sports 5 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Pre 1 SD" tvg-logo="" group-title="",SPO: beIN Sports Pre 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/11
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Pre 2 SD" tvg-logo="" group-title="",SPO: beIN Sports Pre 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/12
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Pre 3 SD" tvg-logo="" group-title="",SPO: beIN Sports Pre 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/13
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 1 SD" tvg-logo="" group-title="",SPO: beIN Sports 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/14
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 2 SD" tvg-logo="" group-title="",SPO: beIN Sports 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/15
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 3 SD" tvg-logo="" group-title="",SPO: beIN Sports 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/16
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 4 SD" tvg-logo="" group-title="",SPO: beIN Sports 4 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/17
+#EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 5 SD" tvg-logo="" group-title="",SPO: beIN Sports 5 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/18
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS-ON-TIME-1" tvg-logo="" group-title="",SPORTS-ON-TIME-1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/21
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS-ON-TIME-2" tvg-logo="" group-title="",SPORTS-ON-TIME-2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/22
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS-ON-TIME-3" tvg-logo="" group-title="",SPORTS-ON-TIME-3
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://yeplayer.xyz:8080/load/load5/23
