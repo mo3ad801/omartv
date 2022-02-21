@@ -1,37 +1,38 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| Fix Foxi" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16935.png" group-title="KIDS TV",|Kids| Fix Foxi
-http://red.ipfox.org:8080/hossam654/h75521858/2286
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| MBC 3 HD" tvg-logo="" group-title="KIDS TV",|Kids| MBC 3 HD
-http://red.ipfox.org:8080/hossam654/h75521858/25056
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| Rotana Kids" tvg-logo="" group-title="KIDS TV",|Kids| Rotana Kids
-http://red.ipfox.org:8080/hossam654/h75521858/25057
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| OSN Kid Zone TV" tvg-logo="" group-title="KIDS TV",|Kids| OSN Kid Zone TV
-http://red.ipfox.org:8080/hossam654/h75521858/30416
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| ZooMoo" tvg-logo="" group-title="KIDS TV",|Kids| ZooMoo
-http://red.ipfox.org:8080/hossam654/h75521858/30417
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| CN Arabia" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17534.jpg" group-title="KIDS TV",|Kids| CN Arabia
-http://red.ipfox.org:8080/hossam654/h75521858/2931
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| Nicktoons" tvg-logo="" group-title="KIDS TV",|Kids| Nicktoons
-http://red.ipfox.org:8080/hossam654/h75521858/30414
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| beIN Jeem" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16952.png" group-title="KIDS TV",|Kids| beIN Jeem
-http://red.ipfox.org:8080/hossam654/h75521858/2303
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| beIN Baraem" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16951.png" group-title="KIDS TV",|Kids| beIN Baraem
-http://red.ipfox.org:8080/hossam654/h75521858/2302
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| Gulli Arabie HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17495.jpg" group-title="KIDS TV",|Kids| Gulli Arabie HD
-http://red.ipfox.org:8080/hossam654/h75521858/2853
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| HodHod" tvg-logo="" group-title="KIDS TV",|Kids| HodHod
-http://red.ipfox.org:8080/hossam654/h75521858/25060
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| ZAYTOONA" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17525.png" group-title="KIDS TV",|Kids| ZAYTOONA
-http://red.ipfox.org:8080/hossam654/h75521858/2922
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| TOYOR ALJANAH" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17527.png" group-title="KIDS TV",|Kids| TOYOR ALJANAH
-http://red.ipfox.org:8080/hossam654/h75521858/2924
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| TAHA" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17528.png" group-title="KIDS TV",|Kids| TAHA
-http://red.ipfox.org:8080/hossam654/h75521858/2925
-#EXTINF:-1 tvg-id="" tvg-name="|kids| SPACETOON ARABIC" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17529.png" group-title="KIDS TV",|kids| SPACETOON ARABIC
-http://red.ipfox.org:8080/hossam654/h75521858/2926
-#EXTINF:-1 tvg-id="" tvg-name="|kids| SAT-7 KIDS" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17531.png" group-title="KIDS TV",|kids| SAT-7 KIDS
-http://red.ipfox.org:8080/hossam654/h75521858/2928
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| KARAMEESH" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17533.png" group-title="KIDS TV",|Kids| KARAMEESH
-http://red.ipfox.org:8080/hossam654/h75521858/2930
-#EXTINF:-1 tvg-id="" tvg-name="|Kids| Atfal &amp; mawaheb" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17535.png" group-title="KIDS TV",|Kids| Atfal &amp; mawaheb
-http://red.ipfox.org:8080/hossam654/h75521858/2932
+#EXTINF:-1,NETFLIX KIDS
+http://actiontv.info:8080/Midokh566/M2003665/11600
+#EXTINF:-1,OSN_Kids
+http://actiontv.info:8080/Midokh566/M2003665/67322
+#EXTINF:-1,OSN_Kid_Zone TV
+http://actiontv.info:8080/Midokh566/M2003665/67294
+#EXTINF:-1,Teatro Kids
+http://actiontv.info:8080/Midokh566/M2003665/47159
+#EXTINF:-1,Majestic Kids HD
+http://actiontv.info:8080/Midokh566/M2003665/21907
+#EXTINF:-1,|AR| ROTANA KIDS
+http://actiontv.info:8080/Midokh566/M2003665/64556
+#EXTINF:-1,|AR| CN-Arabia
+http://actiontv.info:8080/Midokh566/M2003665/64557
+#EXTINF:-1,|AR| HodHod  TV
+http://actiontv.info:8080/Midokh566/M2003665/64558
+#EXTINF:-1,|AR| KARAMEESH
+http://actiontv.info:8080/Midokh566/M2003665/64559
+#EXTINF:-1,|AR| Majid Kids TV
+http://actiontv.info:8080/Midokh566/M2003665/64560
+#EXTINF:-1,|AR| TOM AND JERRY
+http://actiontv.info:8080/Midokh566/M2003665/64561
+#EXTINF:-1,|AR| Atfal & mawaheb
+http://actiontv.info:8080/Midokh566/M2003665/64563
+#EXTINF:-1,|AR| Mr Bean
+http://actiontv.info:8080/Midokh566/M2003665/64564
+#EXTINF:-1,|AR| SPACETOON ARABIC
+http://actiontv.info:8080/Midokh566/M2003665/64565
+#EXTINF:-1,|AR| TAHA
+http://actiontv.info:8080/Midokh566/M2003665/64566
+#EXTINF:-1,Toyor Aljana
+http://actiontv.info:8080/Midokh566/M2003665/21115
+#EXTINF:-1,NETFLIX KIDS
+http://actiontv.info:8080/Midokh566/M2003665/11600
+#EXTINF:-1,|YES| YES MOVIES KIDS FHD
+http://actiontv.info:8080/Midokh566/M2003665/62597
+#EXTINF:-1,Watch Kids h265
+http://actiontv.info:8080/Midokh566/M2003665/23792
