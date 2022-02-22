@@ -1,28 +1,14 @@
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 1
-https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.211:2200/EX/SSC_02_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.211:2200/EX/SSC_03_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/SSC_04_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/SSC_05_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/SSC_06_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://d.top4top.io/p_2204z1dhn1.jpg",SSC SPORT 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/SSC_07_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 1" tvg-logo="" group-title="BeinSport",SSC SPORT HD 1
+http://2690.ovh:25461/r04e78aq/93nxngw7/50674
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 3" tvg-logo="" group-title="BeinSport",SSC SPORT HD 3
+http://2690.ovh:25461/r04e78aq/93nxngw7/100141
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 2" tvg-logo="" group-title="BeinSport",SSC SPORT HD 2
+http://2690.ovh:25461/r04e78aq/93nxngw7/100142
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 4" tvg-logo="" group-title="BeinSport",SSC SPORT HD 4
+http://2690.ovh:25461/r04e78aq/93nxngw7/100140
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 5" tvg-logo="" group-title="BeinSport",SSC SPORT HD 5
+http://2690.ovh:25461/r04e78aq/93nxngw7/100139
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 6" tvg-logo="" group-title="BeinSport",SSC SPORT HD 6
+http://2690.ovh:25461/r04e78aq/93nxngw7/100138
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT HD 7" tvg-logo="" group-title="BeinSport",SSC SPORT HD 7
+http://2690.ovh:25461/r04e78aq/93nxngw7/100137
