@@ -1,38 +1,88 @@
-#EXTINF:-1,NETFLIX KIDS
-http://actiontv.info:8080/Midokh566/M2003665/11600
-#EXTINF:-1,OSN_Kids
-http://actiontv.info:8080/Midokh566/M2003665/67322
-#EXTINF:-1,OSN_Kid_Zone TV
-http://actiontv.info:8080/Midokh566/M2003665/67294
-#EXTINF:-1,Teatro Kids
-http://actiontv.info:8080/Midokh566/M2003665/47159
-#EXTINF:-1,Majestic Kids HD
-http://actiontv.info:8080/Midokh566/M2003665/21907
-#EXTINF:-1,|AR| ROTANA KIDS
-http://actiontv.info:8080/Midokh566/M2003665/64556
-#EXTINF:-1,|AR| CN-Arabia
-http://actiontv.info:8080/Midokh566/M2003665/64557
-#EXTINF:-1,|AR| HodHod  TV
-http://actiontv.info:8080/Midokh566/M2003665/64558
-#EXTINF:-1,|AR| KARAMEESH
-http://actiontv.info:8080/Midokh566/M2003665/64559
-#EXTINF:-1,|AR| Majid Kids TV
-http://actiontv.info:8080/Midokh566/M2003665/64560
-#EXTINF:-1,|AR| TOM AND JERRY
-http://actiontv.info:8080/Midokh566/M2003665/64561
-#EXTINF:-1,|AR| Atfal & mawaheb
-http://actiontv.info:8080/Midokh566/M2003665/64563
-#EXTINF:-1,|AR| Mr Bean
-http://actiontv.info:8080/Midokh566/M2003665/64564
-#EXTINF:-1,|AR| SPACETOON ARABIC
-http://actiontv.info:8080/Midokh566/M2003665/64565
-#EXTINF:-1,|AR| TAHA
-http://actiontv.info:8080/Midokh566/M2003665/64566
-#EXTINF:-1,Toyor Aljana
-http://actiontv.info:8080/Midokh566/M2003665/21115
-#EXTINF:-1,NETFLIX KIDS
-http://actiontv.info:8080/Midokh566/M2003665/11600
-#EXTINF:-1,|YES| YES MOVIES KIDS FHD
-http://actiontv.info:8080/Midokh566/M2003665/62597
-#EXTINF:-1,Watch Kids h265
-http://actiontv.info:8080/Midokh566/M2003665/23792
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" tvg-logo="http://123orca.com:25461/images/404e0d68cfa67ba45b046fbfcf781ca1.jpg" group-title="KIDS",MBC 3
+http://2690.ovh:25461/r04e78aq/93nxngw7/3014
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 HD" tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png" group-title="KIDS",MBC 3 HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/3013
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 (H.265)" tvg-logo="" group-title="KIDS",MBC 3 (H.265)
+http://2690.ovh:25461/r04e78aq/93nxngw7/104710
+#EXTINF:-1 tvg-id="" tvg-name="MBC KIDS FHD" tvg-logo="" group-title="KIDS",MBC KIDS FHD
+http://2690.ovh:25461/r04e78aq/93nxngw7/104780
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabic" tvg-logo="" group-title="KIDS",Cartoon Network Arabic
+http://2690.ovh:25461/r04e78aq/93nxngw7/6376
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" group-title="KIDS",Rotana Kids
+http://2690.ovh:25461/r04e78aq/93nxngw7/43885
+#EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix Foxi" tvg-logo="" group-title="KIDS",Fix Foxi
+http://2690.ovh:25461/r04e78aq/93nxngw7/8174
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="KIDS",Nicktoons
+http://2690.ovh:25461/r04e78aq/93nxngw7/101223
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon." tvg-logo="" group-title="KIDS",Nickelodeon.
+http://2690.ovh:25461/r04e78aq/93nxngw7/101224
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior." tvg-logo="" group-title="KIDS",Disney Junior.
+http://2690.ovh:25461/r04e78aq/93nxngw7/101222
+#EXTINF:-1 tvg-id="beJunior.qa" tvg-name="beIN Junior" tvg-logo="data:image/jpeg;base64,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" group-title="KIDS",beIN Junior
+http://2690.ovh:25461/r04e78aq/93nxngw7/2960
+#EXTINF:-1 tvg-id="" tvg-name="BeiIN Baby HD" tvg-logo="" group-title="KIDS",BeiIN Baby HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/9283
+#EXTINF:-1 tvg-id="Drama.qa" tvg-name="beIN DreamWorks" tvg-logo="" group-title="KIDS",beIN DreamWorks
+http://2690.ovh:25461/r04e78aq/93nxngw7/9495
+#EXTINF:-1 tvg-id="" tvg-name="beIN Boomerang HD" tvg-logo="" group-title="KIDS",beIN Boomerang HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/4221
+#EXTINF:-1 tvg-id="Drama.qa" tvg-name="beIN Baraem" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baraem.jpg" group-title="KIDS",beIN Baraem
+http://2690.ovh:25461/r04e78aq/93nxngw7/3012
+#EXTINF:-1 tvg-id="JeemTV.qa" tvg-name="Bein jeem HD" tvg-logo="http://123orca.com:25461/images/8ecbf1fd1e22211a91a8fff8123612c2.png" group-title="KIDS",Bein jeem HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/3003
+#EXTINF:-1 tvg-id="" tvg-name="KARAMEESH" tvg-logo="http://123orca.com:25461/images/719d540efc8947fc39fa8fb57afd245d.jpg" group-title="KIDS",KARAMEESH
+http://2690.ovh:25461/r04e78aq/93nxngw7/3006
+#EXTINF:-1 tvg-id="" tvg-name="Gulli Bil' Arabie" tvg-logo="" group-title="KIDS",Gulli Bil' Arabie
+http://2690.ovh:25461/r04e78aq/93nxngw7/12988
+#EXTINF:-1 tvg-id="" tvg-name="Laab Wa' Jad HD" tvg-logo="" group-title="KIDS",Laab Wa' Jad HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/12991
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV'" tvg-logo="" group-title="KIDS",Duck TV'
+http://2690.ovh:25461/r04e78aq/93nxngw7/12989
+#EXTINF:-1 tvg-id="ToyourAlJannah.jo" tvg-name="Toyor Al Janah" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/toyor_al_janah.jpg" group-title="KIDS",Toyor Al Janah
+http://2690.ovh:25461/r04e78aq/93nxngw7/3008
+#EXTINF:-1 tvg-id="" tvg-name="SpaceToon Arabic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/spacetoon.jpg" group-title="KIDS",SpaceToon Arabic
+http://2690.ovh:25461/r04e78aq/93nxngw7/3010
+#EXTINF:-1 tvg-id="" tvg-name="HodHod TV" tvg-logo="http://123orca.com:25461/images/4qyHcah8fisUyNyOz8NyEqcFumAml8Am.jpg" group-title="KIDS",HodHod TV
+http://2690.ovh:25461/r04e78aq/93nxngw7/3005
+#EXTINF:-1 tvg-id="MajidKids.ae" tvg-name="Al MAJD Kids" tvg-logo="http://123orca.com:25461/images/aa5a02b42a2b4dcf947c61a6afb388b7.png" group-title="KIDS",Al MAJD Kids
+http://2690.ovh:25461/r04e78aq/93nxngw7/3007
+#EXTINF:-1 tvg-id="" tvg-name="Majid Kids (H.265)" tvg-logo="" group-title="KIDS",Majid Kids (H.265)
+http://2690.ovh:25461/r04e78aq/93nxngw7/100813
+#EXTINF:-1 tvg-id="" tvg-name="Marah TV" tvg-logo="" group-title="KIDS",Marah TV
+http://2690.ovh:25461/r04e78aq/93nxngw7/4412
+#EXTINF:-1 tvg-id="" tvg-name="TAHA" tvg-logo="" group-title="KIDS",TAHA
+http://2690.ovh:25461/r04e78aq/93nxngw7/4362
+#EXTINF:-1 tvg-id="KidsChannel.id" tvg-name="Libya Rasmia" tvg-logo="" group-title="MAGHREB",Libya Rasmia
+http://2690.ovh:25461/r04e78aq/93nxngw7/4418
+#EXTINF:-1 tvg-id="OSNMoviesKids.ae" tvg-name="OSN Kids HD" tvg-logo="" group-title="OSN",OSN Kids HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/13075
+#EXTINF:-1 tvg-id="" tvg-name="OSN KIds Zone HD" tvg-logo="" group-title="OSN",OSN KIds Zone HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/6328
+#EXTINF:-1 tvg-id="" tvg-name="OSN Kids (H.265)" tvg-logo="" group-title="OSN",OSN Kids (H.265)
+http://2690.ovh:25461/r04e78aq/93nxngw7/44027
+#EXTINF:-1 tvg-id="OSNMoviesDisney.ae" tvg-name="OSN Movies Disney HD" tvg-logo="" group-title="OSN",OSN Movies Disney HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/14472
+#EXTINF:-1 tvg-id="" tvg-name="OSN Baby TV HD" tvg-logo="" group-title="OSN",OSN Baby TV HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/42769
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nick Jr HD" tvg-logo="" group-title="OSN",OSN Nick Jr HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/42768
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nick Toons" tvg-logo="" group-title="OSN",OSN Nick Toons
+http://2690.ovh:25461/r04e78aq/93nxngw7/104775
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nickelodeon HD" tvg-logo="" group-title="OSN",OSN Nickelodeon HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/6319
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Junior" tvg-logo="" group-title="OSN",OSN Disney Junior
+http://2690.ovh:25461/r04e78aq/93nxngw7/6320
+#EXTINF:-1 tvg-id="OSNMoviesDisney.ae" tvg-name="OSN Disney Channel HD" tvg-logo="" group-title="OSN",OSN Disney Channel HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/6322
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Kids " tvg-logo="" group-title="BOX OFFICE",NETFLIX Kids 
+http://2690.ovh:25461/r04e78aq/93nxngw7/40733
+#EXTINF:-1 tvg-id="" tvg-name="Orca Kids." tvg-logo="" group-title="KIDS",Orca Kids.
+http://2690.ovh:25461/r04e78aq/93nxngw7/36111
+#EXTINF:-1 tvg-id="" tvg-name="Orca Kids 2 ." tvg-logo="" group-title="KIDS",Orca Kids 2 .
+http://2690.ovh:25461/r04e78aq/93nxngw7/36112
+#EXTINF:-1 tvg-id="" tvg-name="Orca Masha et Michka" tvg-logo="" group-title="KIDS",Orca Masha et Michka
+http://2690.ovh:25461/r04e78aq/93nxngw7/34830
+#EXTINF:-1 tvg-id="" tvg-name="ORCA Tom and Jerry" tvg-logo="" group-title="KIDS",ORCA Tom and Jerry
+http://2690.ovh:25461/r04e78aq/93nxngw7/33742
+#EXTINF:-1 tvg-id="" tvg-name="beIN Carton Network" tvg-logo="" group-title="KIDS",beIN Carton Network
+http://2690.ovh:25461/r04e78aq/93nxngw7/36798
