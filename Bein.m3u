@@ -67,6 +67,62 @@ http://89.163.222.76:8080/qwq/qeeqwqe/36
 #EXTINF:-1,bein boyah live
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.163.222.76:8080/qwq/qeeqwqe/37
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH HD1" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH HD1
+http://2690.ovh:25461/r04e78aq/93nxngw7/41827
+#EXTINF:-1 tvg-id="beINSports13.qa" tvg-name="beIN SPORTS ENGLISH HD2" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH HD2
+http://2690.ovh:25461/r04e78aq/93nxngw7/14403
+#EXTINF:-1 tvg-id="beINSports14.qa" tvg-name="beIN SPORTS ENGLISH HD1" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH HD1
+http://2690.ovh:25461/r04e78aq/93nxngw7/14402
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH HD3" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH HD3
+http://2690.ovh:25461/r04e78aq/93nxngw7/41828
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FRENCH SD1" tvg-logo="" group-title="BeinSport",beIN SPORTS FRENCH SD1
+http://2690.ovh:25461/r04e78aq/93nxngw7/47091
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FRENCH HD1" tvg-logo="" group-title="BeinSport",beIN SPORTS FRENCH HD1
+http://2690.ovh:25461/r04e78aq/93nxngw7/47090
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FRENCH SD2" tvg-logo="" group-title="BeinSport",beIN SPORTS FRENCH SD2
+http://2690.ovh:25461/r04e78aq/93nxngw7/47093
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FRENCH HD2" tvg-logo="" group-title="BeinSport",beIN SPORTS FRENCH HD2
+http://2690.ovh:25461/r04e78aq/93nxngw7/47092
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA HD" tvg-logo="" group-title="BeinSport",beIN SPORTS NBA HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/41829
+#EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-name="beIN SPORTS NBA HD" tvg-logo="" group-title="BeinSport",beIN SPORTS NBA HD
+http://2690.ovh:25461/r04e78aq/93nxngw7/14401
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K
+http://2690.ovh:25461/r04e78aq/93nxngw7/41833
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 1" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 1
+http://2690.ovh:25461/r04e78aq/93nxngw7/11314
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 2" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 2
+http://2690.ovh:25461/r04e78aq/93nxngw7/11315
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 3" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 3
+http://2690.ovh:25461/r04e78aq/93nxngw7/11316
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 4" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 4
+http://2690.ovh:25461/r04e78aq/93nxngw7/11317
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 5" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 5
+http://2690.ovh:25461/r04e78aq/93nxngw7/11318
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 6" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 6
+http://2690.ovh:25461/r04e78aq/93nxngw7/11319
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 7" tvg-logo="" group-title="BeinSport",beIN SPORTS 4K 7
+http://2690.ovh:25461/r04e78aq/93nxngw7/11320
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 4K 1" tvg-logo="" group-title="BeinSport",beIN SPORTS PREMIUM 4K 1
+http://2690.ovh:25461/r04e78aq/93nxngw7/42733
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 4K 2" tvg-logo="" group-title="BeinSport",beIN SPORTS PREMIUM 4K 2
+http://2690.ovh:25461/r04e78aq/93nxngw7/42734
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 4K 3" tvg-logo="" group-title="BeinSport",beIN SPORTS PREMIUM 4K 3
+http://2690.ovh:25461/r04e78aq/93nxngw7/42735
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH 4K 1" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH 4K 1
+http://2690.ovh:25461/r04e78aq/93nxngw7/42738
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH 4K 2" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH 4K 2
+http://2690.ovh:25461/r04e78aq/93nxngw7/42739
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH 4K 3" tvg-logo="" group-title="BeinSport",beIN SPORTS ENGLISH 4K 3
+http://2690.ovh:25461/r04e78aq/93nxngw7/42740
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FRENCH 4K1" tvg-logo="" group-title="BeinSport",beIN SPORTS FRENCH 4K1
+http://2690.ovh:25461/r04e78aq/93nxngw7/47094
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FRENCH 4K2" tvg-logo="" group-title="BeinSport",beIN SPORTS FRENCH 4K2
+http://2690.ovh:25461/r04e78aq/93nxngw7/47095
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA 4K" tvg-logo="" group-title="BeinSport",beIN SPORTS NBA 4K
+http://2690.ovh:25461/r04e78aq/93nxngw7/42741
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA 4K" tvg-logo="" group-title="BeinSport",beIN SPORTS NBA 4K
+http://2690.ovh:25461/r04e78aq/93nxngw7/42742
 #EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports Premium 1 HD" tvg-logo="" group-title="",SPO: beIN Sports Premium 1 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://yeplayer.xyz:8080/load/load5/1
