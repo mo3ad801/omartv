@@ -1,68 +1,68 @@
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="BEIN MOVIES 1 HD" tvg-logo="http://eaiptv.net:8888/images/3c19fd8792aa8ce0cdac41b8f2f87ad5.png" group-title="Bein Movies HD 265",BEIN MOVIES 1 HD
-http://eaiptv.net:8888/future3future3/10454
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN MOVIES ACTION HD" tvg-logo="http://eaiptv.net:8888/images/c61886b8ad98d3950ea35b490e5ecdaa.png" group-title="Bein Movies HD 265",beIN MOVIES ACTION HD
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://eaiptv.net:8888/future3/future3/10454
+#EXTINF:-1,beIN MOVIES ACTION HD
 http://eaiptv.net:8888/future3/future3/10455
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN MOVIES DRAMA HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/MoviesHD3Drama.png" group-title="Bein Movies HD 265",beIN MOVIES DRAMA HD
+#EXTINF:-1,beIN MOVIES DRAMA HD
 http://eaiptv.net:8888/future3/future3/10456
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN MOVIES FAMILY HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/MoviesHD4Family.png" group-title="Bein Movies HD 265",beIN MOVIES FAMILY HD
+#EXTINF:-1,beIN MOVIES FAMILY HD
 http://eaiptv.net:8888/future3/future3/10457
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN SERIES 1 HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/beIN_SERIES_HD1.png" group-title="Bein Movies HD 265",beIN SERIES 1 HD
-http://eaiptv.net:8888/future2/future2/10458
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN SERIES 2 HD" tvg-logo="http://eaiptv.net:8888/images/66d3f90640542222994176343b6e701c.png" group-title="Bein Movies HD 265",beIN SERIES 2 HD
-http://eaiptv.net:8888/future2/future2/10459
-#EXTINF:-1 tvg-id="" tvg-name="beIN GOURMET HD" tvg-logo="http://eaiptv.net:8888/images/0828abc672148441b3ad47023650f8ab.png" group-title="Bein Movies HD 265",beIN GOURMET HD
-http://eaiptv.net:8888/future2/future2/10463
-#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT ʰᵈ" tvg-logo="http://eaiptv.net:8888/images/976f01c58f67aa2dc7100230be471dfe.png" group-title="Bein Movies HD 265",beIN FATAFEAT ʰᵈ
-http://eaiptv.net:8888/future2/future2/10464
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN BOX OFFICE 1 ʰᵈ" tvg-logo="http://eaiptv.net:8888/images/6c08c7eb6eb0e79d3172b196504067d8.png" group-title="Bein Movies HD 265",beIN BOX OFFICE 1 ʰᵈ
-http://eaiptv.net:8888/future2/future2/10460
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN BOX OFFICE 2 ʰᵈ" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/07/BoxOffice_HD2.png" group-title="Bein Movies HD 265",beIN BOX OFFICE 2 ʰᵈ
-http://eaiptv.net:8888/future2/future2/10461
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN BOX OFFICE 3 ʰᵈ" tvg-logo="" group-title="Bein Movies HD 265",beIN BOX OFFICE 3 ʰᵈ
-http://eaiptv.net:8888/future2/future2/10462
-#EXTINF:-1 tvg-id="" tvg-name="beIN OUTDOOR HD" tvg-logo="http://eaiptv.net:8888/images/c654277f99abc1e1423e1696e4b7d118.png" group-title="Bein Movies HD 265",beIN OUTDOOR HD
-http://eaiptv.net:8888/future2/future2/10466
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEJUNIOR HD" tvg-logo="https://beinsports.satellite-kuwaiti.com/wp-content/uploads/be-junior.png" group-title="Bein Movies HD 265",BEIN BEJUNIOR HD
-http://eaiptv.net:8888/future2/future2/26510
-#EXTINF:-1 tvg-id="" tvg-name="Bein Jeem HD " tvg-logo="http://eaiptv.net:8888/images/9c59f4639cace041714569ad3dcfa542.png" group-title="Bein Movies HD 265",Bein Jeem HD 
-http://eaiptv.net:8888/future2/future2/26511
-#EXTINF:-1 tvg-id="" tvg-name="Bein GULLI BIL ARABIE HD" tvg-logo="https://api.aws.telearabia.taprod.otv-se.com/BE/babeleye/ops/eutelsat/mcnc/GulliBelArabi.png" group-title="Bein Movies HD 265",Bein GULLI BIL ARABIE HD
-http://eaiptv.net:8888/future2/future2/26512
-#EXTINF:-1 tvg-id="" tvg-name="Bein Baraeem HD" tvg-logo="http://eaiptv.net:8888/images/622f4295bf00c5ce4d075c939c324cc1.png" group-title="Bein Movies HD 265",Bein Baraeem HD
-http://eaiptv.net:8888/future2/future2/26513
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX ACTION MOVIES HD" tvg-logo="https://img-cdn.we-play.tv/posters/-poster1602704499.jpeg" group-title="Bein Movies HD 265",BEIN FOX ACTION MOVIES HD
-http://eaiptv.net:8888/future2/future2/26514
-#EXTINF:-1 tvg-id="BEIN MOVIES PREMIERE" tvg-name="Bein Movies Premiere 1 HD" tvg-logo="http://eaiptv.net:8888/images/3c19fd8792aa8ce0cdac41b8f2f87ad5.png" group-title="Bein Movies SD",Bein Movies Premiere 1 HD
-http://eaiptv.net:8888/future2/future2/14516
-#EXTINF:-1 tvg-id="BEIN MOVIES ACTION" tvg-name="Bein Movies Action 2 HD" tvg-logo="http://eaiptv.net:8888/images/c61886b8ad98d3950ea35b490e5ecdaa.png" group-title="Bein Movies SD",Bein Movies Action 2 HD
-http://eaiptv.net:8888/future2/future2/14513
-#EXTINF:-1 tvg-id="BEIN MOVIES DRAMA" tvg-name="Bein Movies Drama 3 HD" tvg-logo="http://eaiptv.net:8888/images/7411196a77088bdefb19caa146f6a861.png" group-title="Bein Movies SD",Bein Movies Drama 3 HD
-http://eaiptv.net:8888/future2/future2/14514
-#EXTINF:-1 tvg-id="BEIN MOVIES FAMILY" tvg-name="Bein Movies Family 4 HD" tvg-logo="http://eaiptv.net:8888/images/1538b53992dee5cbfdf667deba03723f.png" group-title="Bein Movies SD",Bein Movies Family 4 HD
-http://eaiptv.net:8888/future2/future2/14515
-#EXTINF:-1 tvg-id="BeIn Series HD 1" tvg-name="Bein:Series 1" tvg-logo="http://eaiptv.net:8888/images/576e71c4551c60e73ee9c9bd19361a7e.png" group-title="Bein Movies SD",Bein:Series 1
-http://eaiptv.net:8888/future2/future2/14517
-#EXTINF:-1 tvg-id="BeIn Series HD 2" tvg-name="Bein:Series 2" tvg-logo="http://eaiptv.net:8888/images/66d3f90640542222994176343b6e701c.png" group-title="Bein Movies SD",Bein:Series 2
-http://eaiptv.net:8888/future2/future2/14518
-#EXTINF:-1 tvg-id="" tvg-name="Bein:Box Office 1" tvg-logo="http://eaiptv.net:8888/images/6c08c7eb6eb0e79d3172b196504067d8.png" group-title="Bein Movies SD",Bein:Box Office 1
-http://eaiptv.net:8888/future2/future2/14510
-#EXTINF:-1 tvg-id="" tvg-name="Bein:Box Office 2" tvg-logo="http://eaiptv.net:8888/images/a5398d80f92b80d530f745557941d31d.png" group-title="Bein Movies SD",Bein:Box Office 2
-http://eaiptv.net:8888/future2/future2/14511
-#EXTINF:-1 tvg-id="" tvg-name="Bein:Box Office 3" tvg-logo="" group-title="Bein Movies SD",Bein:Box Office 3
-http://eaiptv.net:8888/future2/future2/14512
-#EXTINF:-1 tvg-id="" tvg-name="Bein:FATAFEAT" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png" group-title="Bein Movies SD",Bein:FATAFEAT
-http://eaiptv.net:8888/future2/future2/14509
-#EXTINF:-1 tvg-id="" tvg-name="Bein: FOX_Life" tvg-logo="http://eaiptv.net:8888/images/9dc8724eaab352fd14ef81cb62bd84ad.png" group-title="Bein Movies SD",Bein: FOX_Life
-http://eaiptv.net:8888/future2/future2/14519
-#EXTINF:-1 tvg-id="" tvg-name="Bein: Jeem HD" tvg-logo="http://eaiptv.net:8888/images/9c59f4639cace041714569ad3dcfa542.png" group-title="Bein Movies SD",Bein: Jeem HD
-http://eaiptv.net:8888/future2/future2/14520
-#EXTINF:-1 tvg-id="" tvg-name="Bein:Outdoor" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Outdoor-Channel.png" group-title="Bein Movies SD",Bein:Outdoor
-http://eaiptv.net:8888/future2/future2/14521
-#EXTINF:-1 tvg-id="" tvg-name="Bein:Gourmet" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Gourmet.png" group-title="Bein Movies SD",Bein:Gourmet
-http://eaiptv.net:8888/future2/future2/14522
-#EXTINF:-1 tvg-id="" tvg-name="Bein: Baraeem" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Bara3em-1.png" group-title="Bein Movies SD",Bein: Baraeem
-http://eaiptv.net:8888/future2/future2/14523
-#EXTINF:-1 tvg-id="" tvg-name="Bein:GULLI BIL ARABIE" tvg-logo="https://api.aws.telearabia.taprod.otv-se.com/BE/babeleye/ops/eutelsat/mcnc/GulliBelArabi.png" group-title="Bein Movies SD",Bein:GULLI BIL ARABIE
-http://eaiptv.net:8888/future2/future2/14526
-#EXTINF:-1 tvg-id="" tvg-name="Bein:Nat Geo HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Nat_Geo_wild-2.png" group-title="Bein Movies SD",Bein:Nat Geo HD
-http://eaiptv.net:8888/future2/future2/14527
+#EXTINF:-1,beIN SERIES 1 HD
+http://eaiptv.net:8888/future3/future3/10458
+#EXTINF:-1,beIN SERIES 2 HD
+http://eaiptv.net:8888/future3/future3/10459
+#EXTINF:-1,beIN GOURMET HD
+http://eaiptv.net:8888/future3/future3/10463
+#EXTINF:-1,beIN FATAFEAT ʰᵈ
+http://eaiptv.net:8888/future3/future3/10464
+#EXTINF:-1,beIN BOX OFFICE 1 ʰᵈ
+http://eaiptv.net:8888/future3/future3/10460
+#EXTINF:-1,beIN BOX OFFICE 2 ʰᵈ
+http://eaiptv.net:8888/future3/future3/10461
+#EXTINF:-1,beIN BOX OFFICE 3 ʰᵈ
+http://eaiptv.net:8888/future3/future3/10462
+#EXTINF:-1,beIN OUTDOOR HD
+http://eaiptv.net:8888/future3/future3/10466
+#EXTINF:-1,BEIN BEJUNIOR HD
+http://eaiptv.net:8888/future3/future3/26510
+#EXTINF:-1,Bein Jeem HD 
+http://eaiptv.net:8888/future3/future3/26511
+#EXTINF:-1,Bein GULLI BIL ARABIE HD
+http://eaiptv.net:8888/future3/future3/26512
+#EXTINF:-1,Bein Baraeem HD
+http://eaiptv.net:8888/future3/future3/26513
+#EXTINF:-1,BEIN FOX ACTION MOVIES HD
+http://eaiptv.net:8888/future3/future3/26514
+#EXTINF:-1,Bein Movies Premiere 1 HD
+http://eaiptv.net:8888/future3/future3/14516
+#EXTINF:-1,Bein Movies Action 2 HD
+http://eaiptv.net:8888/future3/future3/14513
+#EXTINF:-1,Bein Movies Drama 3 HD
+http://eaiptv.net:8888/future3/future3/14514
+#EXTINF:-1,Bein Movies Family 4 HD
+http://eaiptv.net:8888/future3/future3/14515
+#EXTINF:-1,Bein:Series 1
+http://eaiptv.net:8888/future3/future3/14517
+#EXTINF:-1,Bein:Series 2
+http://eaiptv.net:8888/future3/future3/14518
+#EXTINF:-1,Bein:Box Office 1
+http://eaiptv.net:8888/future3/future3/14510
+#EXTINF:-1,Bein:Box Office 2
+http://eaiptv.net:8888/future3/future3/14511
+#EXTINF:-1,Bein:Box Office 3
+http://eaiptv.net:8888/future3/future3/14512
+#EXTINF:-1,Bein:FATAFEAT
+http://eaiptv.net:8888/future3/future3/14509
+#EXTINF:-1,Bein: FOX_Life
+http://eaiptv.net:8888/future3/future3/14519
+#EXTINF:-1,Bein: Jeem HD
+http://eaiptv.net:8888/future3/future3/14520
+#EXTINF:-1,Bein:Outdoor
+http://eaiptv.net:8888/future3/future3/14521
+#EXTINF:-1,Bein:Gourmet
+http://eaiptv.net:8888/future3/future3/14522
+#EXTINF:-1,Bein: Baraeem
+http://eaiptv.net:8888/future3/future3/14523
+#EXTINF:-1,Bein:GULLI BIL ARABIE
+http://eaiptv.net:8888/future3/future3/14526
+#EXTINF:-1,Bein:Nat Geo HD
+http://eaiptv.net:8888/future3/future3/14527
