@@ -1,5 +1,5 @@
 #EXTINF:-1,SPO: beIN Sports Premium 1 HD
-#HTTP://104.149.161.170:8080-user-agent=live_sport1986
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://89.163.222.76:8080/qwq/42323432/2
 #EXTINF:-1,SPO: beIN Sports Premium 2 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
