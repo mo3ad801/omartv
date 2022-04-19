@@ -1,18 +1,50 @@
-#EXTINF:-1,AR:Rotana Cinema
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/145
-#EXTINF:-1,AR: Rotana Cinema KSA
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/146
-#EXTINF:-1,AR:Rotana Aflam
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/147
-#EXTINF:-1,AR: Rotana  Comedy
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/148
-#EXTINF:-1,AR: Rotana Classic
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/149
-#EXTINF:-1,AR: Rotana Drama
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/150
-#EXTINF:-1,AR: Rotana Clip
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/152
-#EXTINF:-1,AR: Rotana Kids HD
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/153
-#EXTINF:-1,AR: Rotana Khaliji
-http://match2day.net:8080/aiirrv15309974535715932102-letssgooo/23210VgAE0p11/154
+#EXTINF:-1 tvg-name="Rotana_Clip" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_clip.png" group-title="{BOUQUET_NAME}",Rotana_Clip
+http://iptv.ndasat.com:88/228422532602501/228422532602501/642
+#EXTINF:-1 tvg-name="Rotana M+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-m-plus-sa.png" group-title="{BOUQUET_NAME}",Rotana M+
+http://iptv.ndasat.com:88/228422532602501/228422532602501/407
+#EXTINF:-1 tvg-name="Rotana+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-plus-sa.png" group-title="{BOUQUET_NAME}",Rotana+
+http://iptv.ndasat.com:88/228422532602501/228422532602501/406
+#EXTINF:-1 tvg-name="Rotana_Aflam+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-aflam-plus-sa.png" group-title="{BOUQUET_NAME}",Rotana_Aflam+
+http://iptv.ndasat.com:88/228422532602501/228422532602501/408
+#EXTINF:-1 tvg-name="Rotana_Cinema_EGY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_EGY
+http://iptv.ndasat.com:88/228422532602501/228422532602501/1588
+#EXTINF:-1 tvg-name="Rotana_Music_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_music.png" group-title="{BOUQUET_NAME}",Rotana_Music_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3175
+#EXTINF:-1 tvg-name="Rotana_Drama_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-drama-sa.png" group-title="{BOUQUET_NAME}",Rotana_Drama_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3176
+#EXTINF:-1 tvg-name="Rotana_Khaliji_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_khalejia.png" group-title="{BOUQUET_NAME}",Rotana_Khaliji_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3177
+#EXTINF:-1 tvg-name="Rotana_Classic_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_classic.png" group-title="{BOUQUET_NAME}",Rotana_Classic_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3178
+#EXTINF:-1 tvg-name="Rotana_Cinema_KSA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_KSA
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3179
+#EXTINF:-1 tvg-name="Rotana_Comedy_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-comedy-sa.png" group-title="{BOUQUET_NAME}",Rotana_Comedy_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3180
+#EXTINF:-1 tvg-name="Rotana_kids_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-kids-sa.png" group-title="{BOUQUET_NAME}",Rotana_kids_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/586
+#EXTINF:-1 tvg-name="Rotana_Music_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_music.png" group-title="{BOUQUET_NAME}",Rotana_Music_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3175
+#EXTINF:-1 tvg-name="Rotana_Drama_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-drama-sa.png" group-title="{BOUQUET_NAME}",Rotana_Drama_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3176
+#EXTINF:-1 tvg-name="Rotana_Khaliji_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_khalejia.png" group-title="{BOUQUET_NAME}",Rotana_Khaliji_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3177
+#EXTINF:-1 tvg-name="Rotana_Classic_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_classic.png" group-title="{BOUQUET_NAME}",Rotana_Classic_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3178
+#EXTINF:-1 tvg-name="Rotana_Cinema_KSA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_KSA
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3179
+#EXTINF:-1 tvg-name="Rotana_Comedy_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-comedy-sa.png" group-title="{BOUQUET_NAME}",Rotana_Comedy_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3180
+#EXTINF:-1 tvg-name="Rotana_Music_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_music.png" group-title="{BOUQUET_NAME}",Rotana_Music_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3175
+#EXTINF:-1 tvg-name="Rotana_Drama_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-drama-sa.png" group-title="{BOUQUET_NAME}",Rotana_Drama_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3176
+#EXTINF:-1 tvg-name="Rotana_Khaliji_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_khalejia.png" group-title="{BOUQUET_NAME}",Rotana_Khaliji_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3177
+#EXTINF:-1 tvg-name="Rotana_Classic_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_classic.png" group-title="{BOUQUET_NAME}",Rotana_Classic_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3178
+#EXTINF:-1 tvg-name="Rotana_Cinema_KSA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_KSA
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3179
+#EXTINF:-1 tvg-name="Rotana_Comedy_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-comedy-sa.png" group-title="{BOUQUET_NAME}",Rotana_Comedy_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3180
+#EXTINF:-1 tvg-name="Rotana_kids_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-kids-sa.png" group-title="{BOUQUET_NAME}",Rotana_kids_HD
+http://iptv.ndasat.com:88/228422532602501/228422532602501/586
