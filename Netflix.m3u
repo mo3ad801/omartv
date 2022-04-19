@@ -1,72 +1,20 @@
-#EXTINF:-1,[NETFLIX] Action
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/245
-#EXTINF:-1,[NETFLIX] Thriller
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/246
-#EXTINF:-1,[NETFLIX] SCi-Fi
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/247
-#EXTINF:-1,[NETFLIX] Hendy
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/248
-#EXTINF:-1,[NETFLIX] Horror
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/249
-#EXTINF:-1,NETFLIX_Comedy+
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/250
-#EXTINF:-1,NETFLIX_SCI FI
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/251
-#EXTINF:-1,NETFLIX_HOME_CINEMA_1
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/252
-#EXTINF:-1,NETFLIX N action
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/253
-#EXTINF:-1,Netflex Action
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/254
-#EXTINF:-1,Netflix SCF FI
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/255
-#EXTINF:-1,Netflix Kids
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/256
-#EXTINF:-1,Netflix Horror
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/257
-#EXTINF:-1,Netflix Comedy
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/258
-#EXTINF:-1,NETFLIX  ACTION
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/259
-#EXTINF:-1,Netflix Comedy 2
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/260
-#EXTINF:-1,NETFLIX_DRAMA
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/261
-#EXTINF:-1,NETFLIX ANIMATION HD
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/262
-#EXTINF:-1,Netflix Horror 2
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/263
-#EXTINF:-1,Netflix Bollywood
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/264
-#EXTINF:-1,NETFLIX_Drama
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/265
-#EXTINF:-1,NETFLIX_THRILLER
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/266
-#EXTINF:-1,AR: Netflix Series
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/267
-#EXTINF:-1,AR: NETFLIX JR
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/268
-#EXTINF:-1,AR: Netflix documentary
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/269
-#EXTINF:-1,AR: NETFLIX COMEDY +2
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/270
-#EXTINF:-1,AR: Netflix Horror+
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/271
-#EXTINF:-1,AR: NETFLIX Kids +1
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/272
-#EXTINF:-1,AR: Netflix KIDS +2
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/273
-#EXTINF:-1,AR: NETFLIX ARABIC 1
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/274
-#EXTINF:-1,AR: NETFLIX ARABIC 2
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/275
-#EXTINF:-1,AR: Netflix Romance HD
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/276
-#EXTINF:-1,Netflix+ Drama
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/277
-#EXTINF:-1,Netflix +Arabic
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/278
-#EXTINF:-1,Netflix+ Action
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/279
-#EXTINF:-1,NETFLIX+ HORROR
-http://fxorexworld.com:8080/PLktghxxvd/TJWaGQlGrn/280
+#EXTINF:-1 tvg-name="AV:Netflix Bollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",AV:Netflix Bollywood
+http://iptv.ndasat.com:88/228422532602501/228422532602501/2114
+#EXTINF:-1 tvg-name="AV:Netflix Scifi" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="{BOUQUET_NAME}",AV:Netflix Scifi
+http://iptv.ndasat.com:88/228422532602501/228422532602501/1883
+#EXTINF:-1 tvg-name="AV:Netflix  Horror" tvg-logo="http://logo.ndasat.com/iptv/images/3388_planetturk.png" group-title="{BOUQUET_NAME}",AV:Netflix  Horror
+http://iptv.ndasat.com:88/228422532602501/228422532602501/787
+#EXTINF:-1 tvg-name="AV:Netflix Action" tvg-logo="" group-title="{BOUQUET_NAME}",AV:Netflix Action
+http://iptv.ndasat.com:88/228422532602501/228422532602501/6362
+#EXTINF:-1 tvg-name="AV:Netflix Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",AV:Netflix Comedy
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3338
+#EXTINF:-1 tvg-name="AV:Netflix Thriller" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",AV:Netflix Thriller
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3334
+#EXTINF:-1 tvg-name="AV:Netflix Drama" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",AV:Netflix Drama
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3335
+#EXTINF:-1 tvg-name="AV:Netflix Classic" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",AV:Netflix Classic
+http://iptv.ndasat.com:88/228422532602501/228422532602501/3205
+#EXTINF:-1 tvg-name="AV:Netflix Turkish2" tvg-logo="" group-title="{BOUQUET_NAME}",AV:Netflix Turkish2
+http://iptv.ndasat.com:88/228422532602501/228422532602501/16322
+#EXTINF:-1 tvg-name="AV:Netflix Zaman" tvg-logo="" group-title="{BOUQUET_NAME}",AV:Netflix Zaman
+http://iptv.ndasat.com:88/228422532602501/228422532602501/20562
