@@ -40,22 +40,8 @@ http://iptv.ndasat.com:88/228422532602501/228422532602501/1684
 http://iptv.ndasat.com:88/228422532602501/228422532602501/1685
 #EXTINF:-1 tvg-name="OSN:Star Movies" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Star Movies
 http://iptv.ndasat.com:88/228422532602501/228422532602501/2392
-#EXTINF:-1 tvg-name="Sudan-BlueNile" tvg-logo="http://logo.ndasat.com/iptv/images/57704_bluenile.jpg" group-title="{BOUQUET_NAME}",Sudan-BlueNile
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1433
-#EXTINF:-1 tvg-name="Sudan-Chorouk" tvg-logo="http://logo.ndasat.com/iptv/images/80898_chorouktv.jpg" group-title="{BOUQUET_NAME}",Sudan-Chorouk
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1431
-#EXTINF:-1 tvg-name="Sudan-Kasala" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",Sudan-Kasala
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2739
-#EXTINF:-1 tvg-name="AF:Tele Tchad" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",AF:Tele Tchad
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2740
-#EXTINF:-1 tvg-name="IRQ:AlHurrairaq" tvg-logo="http://logo.ndasat.com/iptv/images/50974_hurrairaq.jpg" group-title="{BOUQUET_NAME}",IRQ:AlHurrairaq
-http://iptv.ndasat.com:88/228422532602501/228422532602501/635
 #EXTINF:-1 tvg-name="OSN:Yahala Cinema" tvg-logo="http://logo.ndasat.com/iptv/images/25447_yahalacinema.png" group-title="{BOUQUET_NAME}",OSN:Yahala Cinema
 http://iptv.ndasat.com:88/228422532602501/228422532602501/1700
-#EXTINF:-1 tvg-name="Libya 218" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="{BOUQUET_NAME}",Libya 218
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2123
-#EXTINF:-1 tvg-name="IRQ:Afaq" tvg-logo="http://logo.ndasat.com/iptv/images/91048_afaq.png" group-title="{BOUQUET_NAME}",IRQ:Afaq
-http://iptv.ndasat.com:88/228422532602501/228422532602501/238
 #EXTINF:-1 tvg-name="OSN:Yahala" tvg-logo="http://logo.ndasat.com/iptv/images/39623_OYA.jpg" group-title="{BOUQUET_NAME}",OSN:Yahala
 http://iptv.ndasat.com:88/228422532602501/228422532602501/1462
 #EXTINF:-1 tvg-name="OSN:Yahala First" tvg-logo="http://logo.ndasat.com/iptv/images/16292_OYH.jpg" group-title="{BOUQUET_NAME}",OSN:Yahala First
@@ -74,8 +60,6 @@ http://iptv.ndasat.com:88/228422532602501/228422532602501/2402
 http://iptv.ndasat.com:88/228422532602501/228422532602501/2412
 #EXTINF:-1 tvg-name="OSN:Movies Disney" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Movies Disney
 http://iptv.ndasat.com:88/228422532602501/228422532602501/2393
-#EXTINF:-1 tvg-name="OSN:POpup" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:POpup
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2396
 #EXTINF:-1 tvg-name="OSN: OSN News" tvg-logo="" group-title="{BOUQUET_NAME}",OSN: OSN News
 http://iptv.ndasat.com:88/228422532602501/228422532602501/2411
 #EXTINF:-1 tvg-name="OSN:Fann" tvg-logo="http://logo.ndasat.com/iptv/images/27661_osn_fann.jpg" group-title="{BOUQUET_NAME}",OSN:Fann
