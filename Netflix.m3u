@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-name="AV:Netflix Bollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",AV:Netflix Bollywood
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2114
-#EXTINF:-1 tvg-name="AV:Netflix Scifi" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="{BOUQUET_NAME}",AV:Netflix Scifi
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1883
 #EXTINF:-1 tvg-name="AV:Netflix  Horror" tvg-logo="http://logo.ndasat.com/iptv/images/3388_planetturk.png" group-title="{BOUQUET_NAME}",AV:Netflix  Horror
 http://iptv.ndasat.com:88/228422532602501/228422532602501/787
 #EXTINF:-1 tvg-name="AV:Netflix Action" tvg-logo="" group-title="{BOUQUET_NAME}",AV:Netflix Action
