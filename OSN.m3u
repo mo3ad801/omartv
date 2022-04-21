@@ -1,84 +1,178 @@
-#EXTINF:-1 tvg-name="OSN:Cinema2" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Cinema2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1694
-#EXTINF:-1 tvg-name="OSN:Cinema1" tvg-logo="http://logo.ndasat.com/iptv/images/63408_osnbox1.jpg" group-title="{BOUQUET_NAME}",OSN:Cinema1
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1695
-#EXTINF:-1 tvg-name="OSN: Musalsalat" tvg-logo="http://logo.ndasat.com/iptv/images/14719_musalsalat.jpg" group-title="{BOUQUET_NAME}",OSN: Musalsalat
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1697
-#EXTINF:-1 tvg-name="OSN:Fann" tvg-logo="http://logo.ndasat.com/iptv/images/27661_osn_fann.jpg" group-title="{BOUQUET_NAME}",OSN:Fann
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1702
-#EXTINF:-1 tvg-name="OSN Movies Action +2" tvg-logo="http://logo.ndasat.com/iptv/images/12798_entraintement tv.png" group-title="{BOUQUET_NAME}",OSN Movies Action +2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1703
-#EXTINF:-1 tvg-name="OSN:History" tvg-logo="http://logo.ndasat.com/iptv/images/35503_history.png" group-title="{BOUQUET_NAME}",OSN:History
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1607
-#EXTINF:-1 tvg-name="OSN:History2" tvg-logo="http://logo.ndasat.com/iptv/images/69578_h2.png" group-title="{BOUQUET_NAME}",OSN:History2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1606
-#EXTINF:-1 tvg-name="OSN:Discovery" tvg-logo="http://logo.ndasat.com/iptv/images/4258_discoveryosn.png" group-title="{BOUQUET_NAME}",OSN:Discovery
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1608
-#EXTINF:-1 tvg-name="OSN:Enigma" tvg-logo="http://logo.ndasat.com/iptv/images/75585_OPR.jpg" group-title="{BOUQUET_NAME}",OSN:Enigma
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1467
-#EXTINF:-1 tvg-name="OSN:Movies Kids" tvg-logo="http://logo.ndasat.com/iptv/images/58700_OMK.jpg" group-title="{BOUQUET_NAME}",OSN:Movies Kids
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1471
-#EXTINF:-1 tvg-name="OSN:Movies HD" tvg-logo="http://logo.ndasat.com/iptv/images/27968_OM1.jpg" group-title="{BOUQUET_NAME}",OSN:Movies HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1466
-#EXTINF:-1 tvg-name="OSN:Movies Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/19051_OMC.jpg" group-title="{BOUQUET_NAME}",OSN:Movies Comedy
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1469
-#EXTINF:-1 tvg-name="OSN: Series FIRST" tvg-logo="http://logo.ndasat.com/iptv/images/70859_OFH.png" group-title="{BOUQUET_NAME}",OSN: Series FIRST
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1465
-#EXTINF:-1 tvg-name="OSN: Movies Action" tvg-logo="http://logo.ndasat.com/iptv/images/19173_OM1.jpg" group-title="{BOUQUET_NAME}",OSN: Movies Action
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1464
-#EXTINF:-1 tvg-name="OSN:Movies First +2" tvg-logo="http://logo.ndasat.com/iptv/images/53172_OCO.jpg" group-title="{BOUQUET_NAME}",OSN:Movies First +2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1472
-#EXTINF:-1 tvg-name="OSN:Discovery Sc HD" tvg-logo="http://logo.ndasat.com/iptv/images/59283_logo (1).png" group-title="{BOUQUET_NAME}",OSN:Discovery Sc HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1474
-#EXTINF:-1 tvg-name="OSN:Paramount" tvg-logo="http://logo.ndasat.com/iptv/images/15730_osnsport2.png" group-title="{BOUQUET_NAME}",OSN:Paramount
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1704
-#EXTINF:-1 tvg-name="T-Kassak_ya_Watan" tvg-logo="http://logo.ndasat.com/iptv/images/83037_osnsport4.png" group-title="{BOUQUET_NAME}",T-Kassak_ya_Watan
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1688
-#EXTINF:-1 tvg-name="OSN:Syfy HD" tvg-logo="http://logo.ndasat.com/iptv/images/74237_syfy_hd.jpg" group-title="{BOUQUET_NAME}",OSN:Syfy HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1684
-#EXTINF:-1 tvg-name="OSN:Star World" tvg-logo="http://logo.ndasat.com/iptv/images/55959_Star_world.jpg" group-title="{BOUQUET_NAME}",OSN:Star World
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1685
-#EXTINF:-1 tvg-name="OSN:Star Movies" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Star Movies
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2392
-#EXTINF:-1 tvg-name="OSN:Yahala Cinema" tvg-logo="http://logo.ndasat.com/iptv/images/25447_yahalacinema.png" group-title="{BOUQUET_NAME}",OSN:Yahala Cinema
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1700
-#EXTINF:-1 tvg-name="OSN:Yahala" tvg-logo="http://logo.ndasat.com/iptv/images/39623_OYA.jpg" group-title="{BOUQUET_NAME}",OSN:Yahala
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1462
-#EXTINF:-1 tvg-name="OSN:Yahala First" tvg-logo="http://logo.ndasat.com/iptv/images/16292_OYH.jpg" group-title="{BOUQUET_NAME}",OSN:Yahala First
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1461
-#EXTINF:-1 tvg-name="OSN:WWE" tvg-logo="http://logo.ndasat.com/iptv/images/32128_osnwwe.jpg" group-title="{BOUQUET_NAME}",OSN:WWE
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1473
-#EXTINF:-1 tvg-name="OSN:TLC HD" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:TLC HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3965
-#EXTINF:-1 tvg-name="OSN:Kids Zone" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Kids Zone
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3970
-#EXTINF:-1 tvg-name="OSN :Living" tvg-logo="" group-title="{BOUQUET_NAME}",OSN :Living
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3961
-#EXTINF:-1 tvg-name="OSN:Music Now" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Music Now
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2402
-#EXTINF:-1 tvg-name="OSN: Movies First" tvg-logo="" group-title="{BOUQUET_NAME}",OSN: Movies First
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2412
-#EXTINF:-1 tvg-name="OSN:Movies Disney" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Movies Disney
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2393
-#EXTINF:-1 tvg-name="OSN: OSN News" tvg-logo="" group-title="{BOUQUET_NAME}",OSN: OSN News
-http://iptv.ndasat.com:88/228422532602501/228422532602501/2411
-#EXTINF:-1 tvg-name="OSN:Fann" tvg-logo="http://logo.ndasat.com/iptv/images/27661_osn_fann.jpg" group-title="{BOUQUET_NAME}",OSN:Fann
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1702
-#EXTINF:-1 tvg-name="OSN:Disney" tvg-logo="http://logo.ndasat.com/iptv/images/93482_OFM.png" group-title="{BOUQUET_NAME}",OSN:Disney
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1690
-#EXTINF:-1 tvg-name="OSN:Movies Bing" tvg-logo="http://logo.ndasat.com/iptv/images/49402_OFS.png" group-title="{BOUQUET_NAME}",OSN:Movies Bing
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1691
-#EXTINF:-1 tvg-name="OSN:Cinema2" tvg-logo="" group-title="{BOUQUET_NAME}",OSN:Cinema2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1694
-#EXTINF:-1 tvg-name="OSN:Cinema1" tvg-logo="http://logo.ndasat.com/iptv/images/63408_osnbox1.jpg" group-title="{BOUQUET_NAME}",OSN:Cinema1
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1695
-#EXTINF:-1 tvg-name="OSN: Musalsalat" tvg-logo="http://logo.ndasat.com/iptv/images/14719_musalsalat.jpg" group-title="{BOUQUET_NAME}",OSN: Musalsalat
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1697
-#EXTINF:-1 tvg-name="OSN Movies Action +2" tvg-logo="http://logo.ndasat.com/iptv/images/12798_entraintement tv.png" group-title="{BOUQUET_NAME}",OSN Movies Action +2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1703
-#EXTINF:-1 tvg-name="OSN:History" tvg-logo="http://logo.ndasat.com/iptv/images/35503_history.png" group-title="{BOUQUET_NAME}",OSN:History
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1607
-#EXTINF:-1 tvg-name="OSN:History2" tvg-logo="http://logo.ndasat.com/iptv/images/69578_h2.png" group-title="{BOUQUET_NAME}",OSN:History2
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1606
-#EXTINF:-1 tvg-name="OSN:Discovery" tvg-logo="http://logo.ndasat.com/iptv/images/4258_discoveryosn.png" group-title="{BOUQUET_NAME}",OSN:Discovery
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1608
+#EXTINF:-1,OSN: YA HALA HD
+http://stariptv.org:8080/basma2022/123456/55960
+#EXTINF:-1,OSN: YA HALA Al Oula HD
+http://stariptv.org:8080/basma2022/123456/55961
+#EXTINF:-1,OSN: OSN Yahala Cinema HD
+http://stariptv.org:8080/basma2022/123456/70575
+#EXTINF:-1,OSN: YAHALA CINEMA
+http://stariptv.org:8080/basma2022/123456/55962
+#EXTINF:-1,OSN: OSN ALFA MOSALSALAT 1
+http://stariptv.org:8080/basma2022/123456/70577
+#EXTINF:-1,OSN: OSN ALFA MOSALSALAT 2
+http://stariptv.org:8080/basma2022/123456/70578
+#EXTINF:-1,OSN: ALFA ALYOUM HD
+http://stariptv.org:8080/basma2022/123456/55978
+#EXTINF:-1,OSN: OSN ALFA AL SAFWA
+http://stariptv.org:8080/basma2022/123456/70576
+#EXTINF:-1,OSN: OSN ALFA MUSIC NOW
+http://stariptv.org:8080/basma2022/123456/70579
+#EXTINF:-1,OSN: OSN ALFA FANN HD
+http://stariptv.org:8080/basma2022/123456/70580
+#EXTINF:-1,OSN: ALFA Cinema 1 HD
+http://stariptv.org:8080/basma2022/123456/55979
+#EXTINF:-1,OSN: ALFA Cinema 2 HD
+http://stariptv.org:8080/basma2022/123456/55980
+#EXTINF:-1,OSN: WWE FHD
+http://stariptv.org:8080/basma2022/123456/92311
+#EXTINF:-1,OSN: MOVIES FIRST HD
+http://stariptv.org:8080/basma2022/123456/55934
+#EXTINF:-1,OSN: MOVIES  FIRST +2 HD
+http://stariptv.org:8080/basma2022/123456/55935
+#EXTINF:-1,OSN: MOVIES HD
+http://stariptv.org:8080/basma2022/123456/55939
+#EXTINF:-1,OSN: MOVIES ACTION HD
+http://stariptv.org:8080/basma2022/123456/55940
+#EXTINF:-1,OSN: MOVIES BINGI
+http://stariptv.org:8080/basma2022/123456/55941
+#EXTINF:-1,OSN: MOVIES Disney HD
+http://stariptv.org:8080/basma2022/123456/55942
+#EXTINF:-1,OSN: MOVIES ENGIMA HD
+http://stariptv.org:8080/basma2022/123456/55943
+#EXTINF:-1,OSN: MOVIES KIDS HD
+http://stariptv.org:8080/basma2022/123456/55944
+#EXTINF:-1,OSN: SERIES COMEDY HD
+http://stariptv.org:8080/basma2022/123456/55953
+#EXTINF:-1,OSN Series HD
+http://stariptv.org:8080/basma2022/123456/92309
+#EXTINF:-1,OSN: SERIES FIRST HD
+http://stariptv.org:8080/basma2022/123456/55954
+#EXTINF:-1,OSN: STAR MOVIES HD
+http://stariptv.org:8080/basma2022/123456/55956
+#EXTINF:-1,OSN: STAR WORLD HD
+http://stariptv.org:8080/basma2022/123456/55957
+#EXTINF:-1,OSN: COMEDY CENTRAL HD
+http://stariptv.org:8080/basma2022/123456/55926
+#EXTINF:-1,OSN Crime Investigation
+http://stariptv.org:8080/basma2022/123456/93219
+#EXTINF:-1,OSN Kids HD
+http://stariptv.org:8080/basma2022/123456/92313
+#EXTINF:-1,OSN: BABY HD
+http://stariptv.org:8080/basma2022/123456/55923
+#EXTINF:-1,OSN: DISNEY CHANNEL HD
+http://stariptv.org:8080/basma2022/123456/55931
+#EXTINF:-1,OSN: DISNEY JUNIOR HD
+http://stariptv.org:8080/basma2022/123456/55932
+#EXTINF:-1,OSN: KIDS ZONE HD
+http://stariptv.org:8080/basma2022/123456/55937
+#EXTINF:-1,OSN: NICK JR HD
+http://stariptv.org:8080/basma2022/123456/55949
+#EXTINF:-1,OSN: NICKELODEON HD
+http://stariptv.org:8080/basma2022/123456/55950
+#EXTINF:-1,OSN: NickToons HD
+http://stariptv.org:8080/basma2022/123456/70582
+#EXTINF:-1,OSN Discovery IDX HD
+http://stariptv.org:8080/basma2022/123456/92306
+#EXTINF:-1,OSN: DISCOVERY CHANNEL
+http://stariptv.org:8080/basma2022/123456/55927
+#EXTINF:-1,OSN: DISCOVERY ID HD
+http://stariptv.org:8080/basma2022/123456/55929
+#EXTINF:-1,OSN: DISCOVERY SCIENCE
+http://stariptv.org:8080/basma2022/123456/55930
+#EXTINF:-1,OSN: National Geographic HD
+http://stariptv.org:8080/basma2022/123456/55945
+#EXTINF:-1,OSN: NAT GEO PEOPLE HD
+http://stariptv.org:8080/basma2022/123456/55947
+#EXTINF:-1,OSN: National Geographic WILD  HD
+http://stariptv.org:8080/basma2022/123456/55948
+#EXTINF:-1,OSN: OSN H2 HD
+http://stariptv.org:8080/basma2022/123456/70581
+#EXTINF:-1,OSN: HISTORY HD
+http://stariptv.org:8080/basma2022/123456/55936
+#EXTINF:-1,OSN TLC HD
+http://stariptv.org:8080/basma2022/123456/92308
+#EXTINF:-1,OSN Sky News HD
+http://stariptv.org:8080/basma2022/123456/92310
+#EXTINF:-1,OSN Fashion TV HD
+http://stariptv.org:8080/basma2022/123456/92312
+#EXTINF:-1,OSN Enigma HD
+http://stariptv.org:8080/basma2022/123456/92314
+#EXTINF:-1,OSN Play FHD
+http://stariptv.org:8080/basma2022/123456/92316
+#EXTINF:-1,OSN GINX Esports VIP
+http://stariptv.org:8080/basma2022/123456/92317
+#EXTINF:-1,OSN: E! HD
+http://stariptv.org:8080/basma2022/123456/55933
+#EXTINF:-1,OSN: LIVING HD
+http://stariptv.org:8080/basma2022/123456/55938
+#EXTINF:-1,OSN: COMEDY
+http://stariptv.org:8080/basma2022/123456/55981
+#EXTINF:-1,OSN LIVING
+http://stariptv.org:8080/basma2022/123456/100352
+#EXTINF:-1,OSN Mezze
+http://stariptv.org:8080/basma2022/123456/100353
+#EXTINF:-1,OSN Discovery
+http://stariptv.org:8080/basma2022/123456/100354
+#EXTINF:-1,OSN Discovery IDX
+http://stariptv.org:8080/basma2022/123456/100355
+#EXTINF:-1,OSN Discovery Science
+http://stariptv.org:8080/basma2022/123456/100356
+#EXTINF:-1,OSN MOONBUG KIDS
+http://stariptv.org:8080/basma2022/123456/100357
+#EXTINF:-1,OSN KIDS
+http://stariptv.org:8080/basma2022/123456/100359
+#EXTINF:-1,OSN Movies Disney HD
+http://stariptv.org:8080/basma2022/123456/100360
+#EXTINF:-1,OSN DISNEY
+http://stariptv.org:8080/basma2022/123456/100361
+#EXTINF:-1,OSN  Nick Jr
+http://stariptv.org:8080/basma2022/123456/100362
+#EXTINF:-1,OSN Series
+http://stariptv.org:8080/basma2022/123456/100363
+#EXTINF:-1,OSN comedy central
+http://stariptv.org:8080/basma2022/123456/100364
+#EXTINF:-1,OSN baby
+http://stariptv.org:8080/basma2022/123456/100365
+#EXTINF:-1,OSN SERIES FIRST
+http://stariptv.org:8080/basma2022/123456/100366
+#EXTINF:-1,OSN STAR WORLD
+http://stariptv.org:8080/basma2022/123456/100368
+#EXTINF:-1,OSN STAR MOVIES
+http://stariptv.org:8080/basma2022/123456/100369
+#EXTINF:-1,OSN DISNEY JOINUR
+http://stariptv.org:8080/basma2022/123456/100370
+#EXTINF:-1,OSN Kids Zone
+http://stariptv.org:8080/basma2022/123456/100371
+#EXTINF:-1,OSN Nickelodeon
+http://stariptv.org:8080/basma2022/123456/100372
+#EXTINF:-1,OSN Nicktoons
+http://stariptv.org:8080/basma2022/123456/100373
+#EXTINF:-1,OSN National Geographic Wild
+http://stariptv.org:8080/basma2022/123456/100374
+#EXTINF:-1,OSN National Geographic People
+http://stariptv.org:8080/basma2022/123456/100375
+#EXTINF:-1,OSN Nat GEOGRAPHIC
+http://stariptv.org:8080/basma2022/123456/100376
+#EXTINF:-1,OSN History 1
+http://stariptv.org:8080/basma2022/123456/100377
+#EXTINF:-1,OSN HISTORY 2
+http://stariptv.org:8080/basma2022/123456/100378
+#EXTINF:-1,OSN E! FHD
+http://stariptv.org:8080/basma2022/123456/100379
+#EXTINF:-1,OSN MUIC NOW
+http://stariptv.org:8080/basma2022/123456/100380
+#EXTINF:-1,OSN fan
+http://stariptv.org:8080/basma2022/123456/100381
+#EXTINF:-1,OSN Al Safwa
+http://stariptv.org:8080/basma2022/123456/100382
+#EXTINF:-1,OSN MOSALSALAT 1
+http://stariptv.org:8080/basma2022/123456/100383
+#EXTINF:-1,OSN MOSALSALAT 2
+http://stariptv.org:8080/basma2022/123456/100384
+#EXTINF:-1,OSN alyoum
+http://stariptv.org:8080/basma2022/123456/100385
+#EXTINF:-1,OSN CINEMA 1
+http://stariptv.org:8080/basma2022/123456/100386
+#EXTINF:-1,OSN CINEMA 2
+http://stariptv.org:8080/basma2022/123456/100387
+#EXTINF:-1,OSN TLC
+http://stariptv.org:8080/basma2022/123456/100391
