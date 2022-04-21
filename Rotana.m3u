@@ -1,50 +1,24 @@
-#EXTINF:-1 tvg-name="Rotana_Clip" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_clip.png" group-title="{BOUQUET_NAME}",Rotana_Clip
-http://iptv.ndasat.com:88/228422532602501/228422532602501/642
-#EXTINF:-1 tvg-name="Rotana M+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-m-plus-sa.png" group-title="{BOUQUET_NAME}",Rotana M+
-http://iptv.ndasat.com:88/228422532602501/228422532602501/407
-#EXTINF:-1 tvg-name="Rotana+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-plus-sa.png" group-title="{BOUQUET_NAME}",Rotana+
-http://iptv.ndasat.com:88/228422532602501/228422532602501/406
-#EXTINF:-1 tvg-name="Rotana_Aflam+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-aflam-plus-sa.png" group-title="{BOUQUET_NAME}",Rotana_Aflam+
-http://iptv.ndasat.com:88/228422532602501/228422532602501/408
-#EXTINF:-1 tvg-name="Rotana_Cinema_EGY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_EGY
-http://iptv.ndasat.com:88/228422532602501/228422532602501/1588
-#EXTINF:-1 tvg-name="Rotana_Music_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_music.png" group-title="{BOUQUET_NAME}",Rotana_Music_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3175
-#EXTINF:-1 tvg-name="Rotana_Drama_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-drama-sa.png" group-title="{BOUQUET_NAME}",Rotana_Drama_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3176
-#EXTINF:-1 tvg-name="Rotana_Khaliji_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_khalejia.png" group-title="{BOUQUET_NAME}",Rotana_Khaliji_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3177
-#EXTINF:-1 tvg-name="Rotana_Classic_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_classic.png" group-title="{BOUQUET_NAME}",Rotana_Classic_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3178
-#EXTINF:-1 tvg-name="Rotana_Cinema_KSA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_KSA
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3179
-#EXTINF:-1 tvg-name="Rotana_Comedy_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-comedy-sa.png" group-title="{BOUQUET_NAME}",Rotana_Comedy_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3180
-#EXTINF:-1 tvg-name="Rotana_kids_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-kids-sa.png" group-title="{BOUQUET_NAME}",Rotana_kids_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/586
-#EXTINF:-1 tvg-name="Rotana_Music_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_music.png" group-title="{BOUQUET_NAME}",Rotana_Music_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3175
-#EXTINF:-1 tvg-name="Rotana_Drama_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-drama-sa.png" group-title="{BOUQUET_NAME}",Rotana_Drama_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3176
-#EXTINF:-1 tvg-name="Rotana_Khaliji_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_khalejia.png" group-title="{BOUQUET_NAME}",Rotana_Khaliji_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3177
-#EXTINF:-1 tvg-name="Rotana_Classic_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_classic.png" group-title="{BOUQUET_NAME}",Rotana_Classic_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3178
-#EXTINF:-1 tvg-name="Rotana_Cinema_KSA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_KSA
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3179
-#EXTINF:-1 tvg-name="Rotana_Comedy_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-comedy-sa.png" group-title="{BOUQUET_NAME}",Rotana_Comedy_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3180
-#EXTINF:-1 tvg-name="Rotana_Music_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_music.png" group-title="{BOUQUET_NAME}",Rotana_Music_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3175
-#EXTINF:-1 tvg-name="Rotana_Drama_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-drama-sa.png" group-title="{BOUQUET_NAME}",Rotana_Drama_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3176
-#EXTINF:-1 tvg-name="Rotana_Khaliji_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_khalejia.png" group-title="{BOUQUET_NAME}",Rotana_Khaliji_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3177
-#EXTINF:-1 tvg-name="Rotana_Classic_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana_classic.png" group-title="{BOUQUET_NAME}",Rotana_Classic_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3178
-#EXTINF:-1 tvg-name="Rotana_Cinema_KSA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="{BOUQUET_NAME}",Rotana_Cinema_KSA
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3179
-#EXTINF:-1 tvg-name="Rotana_Comedy_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-comedy-sa.png" group-title="{BOUQUET_NAME}",Rotana_Comedy_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/3180
-#EXTINF:-1 tvg-name="Rotana_kids_HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-kids-sa.png" group-title="{BOUQUET_NAME}",Rotana_kids_HD
-http://iptv.ndasat.com:88/228422532602501/228422532602501/586
+#EXTINF:-1,AR.Rotana + HD
+http://stariptv.org:8080/basma2022/123456/97852
+#EXTINF:-1,AR.Rotana M+ HD
+http://stariptv.org:8080/basma2022/123456/97853
+#EXTINF:-1,AR.Rotana Aflam + HD
+http://stariptv.org:8080/basma2022/123456/97854
+#EXTINF:-1,AR.Rotana Comedy
+http://stariptv.org:8080/basma2022/123456/97855
+#EXTINF:-1,AR.Rotana Comedy HD
+http://stariptv.org:8080/basma2022/123456/97856
+#EXTINF:-1,AR.ROTANA AFLAM
+http://stariptv.org:8080/basma2022/123456/14745
+#EXTINF:-1,AR.ROTANA CINEMA
+http://stariptv.org:8080/basma2022/123456/15123
+#EXTINF:-1,AR.ROTANA CLASSIC
+http://stariptv.org:8080/basma2022/123456/15121
+#EXTINF:-1,AR.ROTANA CLIP
+http://stariptv.org:8080/basma2022/123456/15114
+#EXTINF:-1,AR.ROTANA KHALIJIA
+http://stariptv.org:8080/basma2022/123456/15117
+#EXTINF:-1,AR.ROTANA MUSIC
+http://stariptv.org:8080/basma2022/123456/15115
+#EXTINF:-1,AR.ROTANA DRAMA
+http://stariptv.org:8080/basma2022/123456/55592
