@@ -46,18 +46,21 @@ http://89.105.221.115:8080/livesport/shahid_sport/15
 #EXTINF:-1,SPO: beIN Sports 5 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.115:8080/livesport/shahid_sport/16
-#EXTINF:-1,SPORTS-ON-TIME-1
+#EXTINF:-1,Bein AFC Global HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.115:8080/livesport/shahid_sport/17
-#EXTINF:-1,SPORTS-ON-TIME-2
+#EXTINF:-1,Bein AFC1 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.115:8080/livesport/shahid_sport/18
-#EXTINF:-1,SPORTS-ON-TIME-3
+#EXTINF:-1,Bein AFC2 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.115:8080/livesport/shahid_sport/19
-#EXTINF:-1,beIN Sport XTRA 1 HD
+#EXTINF:-1,Bein AFC3 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.115:8080/livesport/shahid_sport/20
-#EXTINF:-1,beIN Sport XTRA 2 HD
+#EXTINF:-1,[EG] ON Sport
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.115:8080/livesport/shahid_sport/21
+#EXTINF:-1,[EG] ON Sport 2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.105.221.115:8080/livesport/shahid_sport/22
