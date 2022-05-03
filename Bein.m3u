@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,SPO: beIN Sports Premium 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
-http://555.yacinetvkora.com/live/61616000/index.m3u8?t=iSMlRQA8Nt1M9SAFw3Q4LA&e=1651606494
+http://555.yacinetvkora.com/live/61616000/index.m3u8?t=Ap-3ghJW-AQ9hNq8Bj7-Aw&e=1651612793
 #EXTINF:-1,SPO: beIN Sports Premium 2 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.114:80/livesport/live_sport/158
@@ -25,7 +25,7 @@ http://89.105.221.114:80/livesport/live_sport/153
 http://89.105.221.114:80/livesport/live_sport/152
 #EXTINF:-1,SPO: beIN Sports Pre 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
-http://555.yacinetvkora.com/live/88824000/index.m3u8?t=3UU2Qsu21xtiMAIgL1S_VQ&e=1651606622
+http://555.yacinetvkora.com/live/61616000/index.m3u8?t=Ap-3ghJW-AQ9hNq8Bj7-Aw&e=1651612793
 #EXTINF:-1,SPO: beIN Sports Pre 2 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.105.221.114:80/livesport/live_sport/150
