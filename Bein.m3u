@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,SPO: beIN Sports Premium 1 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwerqwr/Qwer/1.ts
 #EXTINF:-1,SPO: beIN Sports Premium 2 HD
