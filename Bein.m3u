@@ -1,58 +1,57 @@
 #EXTM3U
-#EXTINF:-1,SPO: beIN Sports Premium 1 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/1
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/1.ts
 #EXTINF:-1,SPO: beIN Sports Premium 2 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/2
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/2.ts
 #EXTINF:-1,SPO: beIN Sports Premium 3 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/3
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/3.ts
 #EXTINF:-1,SPO: beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/4
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/4.ts
 #EXTINF:-1,SPO: beIN Sports 2 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/5
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/5.ts
 #EXTINF:-1,SPO: beIN Sports 3 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/6
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/6.ts
 #EXTINF:-1,SPO: beIN Sports 4 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/7
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/7.ts
 #EXTINF:-1,SPO: beIN Sports 5 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/8
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/8.ts
 #EXTINF:-1,SPO: beIN Sports Pre 1 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/9
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/9.ts
 #EXTINF:-1,SPO: beIN Sports Pre 2 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/10
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/10.ts
 #EXTINF:-1,SPO: beIN Sports Pre 3 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/11
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/11.ts
 #EXTINF:-1,SPO: beIN Sports 1 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/12
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/12.ts
 #EXTINF:-1,SPO: beIN Sports 2 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/13
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/13.ts
 #EXTINF:-1,SPO: beIN Sports 3 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/14
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/14.ts
 #EXTINF:-1,SPO: beIN Sports 4 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/15
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/15.ts
 #EXTINF:-1,SPO: beIN Sports 5 SD
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/16
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/16.ts
 #EXTINF:-1,SPORTS-ON-TIME-1
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/17
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/17.ts
 #EXTINF:-1,SPORTS-ON-TIME-2
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/18
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/18.ts
 #EXTINF:-1,SPORTS-ON-TIME-3
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://146.0.32.163:25461/live_sport_android/live_sport_ios/19
+http://146.0.32.163:25461/live/Qwerqwr/Qwer/19.ts
