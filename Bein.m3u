@@ -1,58 +1,58 @@
 #EXTM3U
-#EXTINF:-1,SPO: beIN Sports Premium 1 HD
+#EXTINF:-1,tvg-name="beIN Sports Premium 1 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/1.ts
-#EXTINF:-1,SPO: beIN Sports Premium 2 HD
+#EXTINF:-1,tvg-name="beIN Sports Premium 2 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/2.ts
-#EXTINF:-1,SPO: beIN Sports Premium 3 HD
+#EXTINF:-1,tvg-name="beIN Sports Premium 3 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/3.ts
-#EXTINF:-1,SPO: beIN Sports 1 HD
+#EXTINF:-1,tvg-name="beIN Sports  1 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/4.ts
-#EXTINF:-1,SPO: beIN Sports 2 HD
+#EXTINF:-1,tvg-name="beIN Sports  2 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/5.ts
-#EXTINF:-1,SPO: beIN Sports 3 HD
+#EXTINF:-1,tvg-name="beIN Sports  3 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/6.ts
-#EXTINF:-1,SPO: beIN Sports 4 HD
+#EXTINF:-1,tvg-name="beIN Sports  4 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/7.ts
-#EXTINF:-1,SPO: beIN Sports 5 HD
+#EXTINF:-1,tvg-name="beIN Sports  5 HD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/8.ts
-#EXTINF:-1,SPO: beIN Sports Pre 1 SD
+#EXTINF:-1,tvg-name="beIN Sports Pre 1 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/9.ts
-#EXTINF:-1,SPO: beIN Sports Pre 2 SD
+#EXTINF:-1,tvg-name="beIN Sports Pre 2 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/10.ts
-#EXTINF:-1,SPO: beIN Sports Pre 3 SD
+#EXTINF:-1,tvg-name="beIN Sports Pre 3 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/11.ts
-#EXTINF:-1,SPO: beIN Sports 1 SD
+#EXTINF:-1,tvg-name="beIN Sports 1 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/12.ts
-#EXTINF:-1,SPO: beIN Sports 2 SD
+#EXTINF:-1,tvg-name="beIN Sports 2 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/13.ts
-#EXTINF:-1,SPO: beIN Sports 3 SD
+#EXTINF:-1,tvg-name="beIN Sports 3 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/14.ts
-#EXTINF:-1,SPO: beIN Sports 4 SD
+#EXTINF:-1,tvg-name="beIN Sports 4 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/15.ts
-#EXTINF:-1,SPO: beIN Sports 5 SD
+#EXTINF:-1,tvg-name="beIN Sports 5 SD" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/16.ts
-#EXTINF:-1,SPORTS-ON-TIME-1
+#EXTINF:-1,tvg-name="SPORTS-ON-TIME-1" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/17.ts
-#EXTINF:-1,SPORTS-ON-TIME-2
+#EXTINF:-1,tvg-name="SPORTS-ON-TIME-2" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/18.ts
-#EXTINF:-1,SPORTS-ON-TIME-3
+#EXTINF:-1,tvg-name="SPORTS-ON-TIME-3" tvg-logo="https://c.top4top.io/p_2334gnah71.jpg"
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://146.0.32.163:25461/live/Qwrqwr/Qwer/19.ts
