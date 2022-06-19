@@ -1,15 +1,12 @@
-#EXTINF:-1,ON SPORT HD
-http://eaiptv.net:8888/future3/future3/10524
-#EXTINF:-1,ON SPORT_1_4K
-http://eaiptv.net:8888/future3/future3/58154
-#EXTINF:-1,ON SPORTS 2
-http://eaiptv.net:8888/future3/future3/19867
-#EXTINF:-1,SPORTS-ON-TIME-1
+#EXTINF:-1 tvg-id="" tvg-name="AR | ONTIME SPORTS" tvg-logo="" group-title="default",AR | ONTIME SPORTS
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/20
-#EXTINF:-1,SPORTS-ON-TIME-2
+http://213.202.230.51:25461/live_sport1/live_sport_ios/15
+#EXTINF:-1 tvg-id="" tvg-name="AR | ONTIME SPORTS ᴴᴰ" tvg-logo="" group-title="default",AR | ONTIME SPORTS ᴴᴰ
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/21
-#EXTINF:-1,SPORTS-ON-TIME-3
+http://213.202.230.51:25461/live_sport1/live_sport_ios/16
+#EXTINF:-1 tvg-id="" tvg-name="AR | ONTIME SPORTS2" tvg-logo="" group-title="default",AR | ONTIME SPORTS2
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/22
+http://213.202.230.51:25461/live_sport1/live_sport_ios/17
+#EXTINF:-1 tvg-id="" tvg-name="AR | ONTIME SPORTS2 ᴴᴰ" tvg-logo="" group-title="default",AR | ONTIME SPORTS2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport1/live_sport_ios/18
