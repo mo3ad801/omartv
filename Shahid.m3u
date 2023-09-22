@@ -1,84 +1,10 @@
-#EXTINF:-1,shahid-egypt 2 FHD
-http://stariptv.org:8080/basma2022/123456/143530
-#EXTINF:-1,shahid-turkish FHD
-http://stariptv.org:8080/basma2022/123456/143383
-#EXTINF:-1,shahid hindi FHD
-http://stariptv.org:8080/basma2022/123456/143296
-#EXTINF:-1,shahid-egypt FHD
-http://stariptv.org:8080/basma2022/123456/143183
-#EXTINF:-1,shahid-khaliji FHD
-http://stariptv.org:8080/basma2022/123456/142757
-#EXTINF:-1,shahid syrian FHD
-http://stariptv.org:8080/basma2022/123456/142051
-#EXTINF:-1,SHahid Aflam 1
-http://stariptv.org:8080/basma2022/123456/130460
-#EXTINF:-1,SHahid Aflam 2
-http://stariptv.org:8080/basma2022/123456/130461
-#EXTINF:-1,SHahid Aflam 3
-http://stariptv.org:8080/basma2022/123456/130462
-#EXTINF:-1,SHahid Action 1
-http://stariptv.org:8080/basma2022/123456/130463
-#EXTINF:-1,SHahid Action 2
-http://stariptv.org:8080/basma2022/123456/130464
-#EXTINF:-1,SHahid ACTION 3
-http://stariptv.org:8080/basma2022/123456/130465
-#EXTINF:-1,SHahid Cartoon
-http://stariptv.org:8080/basma2022/123456/130466
-#EXTINF:-1,SHahid Sci-Fi
-http://stariptv.org:8080/basma2022/123456/130436
-#EXTINF:-1,SHahid Cinema
-http://stariptv.org:8080/basma2022/123456/130437
-#EXTINF:-1,SHahid Cartoon
-http://stariptv.org:8080/basma2022/123456/130438
-#EXTINF:-1,SHahid Masr7yat
-http://stariptv.org:8080/basma2022/123456/130439
-#EXTINF:-1,SHahid Horror 1
-http://stariptv.org:8080/basma2022/123456/130440
-#EXTINF:-1,SHahid Horror 2
-http://stariptv.org:8080/basma2022/123456/130441
-#EXTINF:-1,SHahid Romance 1
-http://stariptv.org:8080/basma2022/123456/130442
-#EXTINF:-1,SHahid Romance 2
-http://stariptv.org:8080/basma2022/123456/130443
-#EXTINF:-1,SHahid Masrh Masr 2
-http://stariptv.org:8080/basma2022/123456/130444
-#EXTINF:-1,SHahid Masrh Masr 3
-http://stariptv.org:8080/basma2022/123456/130445
-#EXTINF:-1,SHahid ARABIA 1
-http://stariptv.org:8080/basma2022/123456/130446
-#EXTINF:-1,SHahid ARABIA 2
-http://stariptv.org:8080/basma2022/123456/130447
-#EXTINF:-1,SHahid DRAMA 1
-http://stariptv.org:8080/basma2022/123456/130448
-#EXTINF:-1,SHahid ADVENTURE 1
-http://stariptv.org:8080/basma2022/123456/130449
-#EXTINF:-1,SHahid ADVENTURE 2
-http://stariptv.org:8080/basma2022/123456/130450
-#EXTINF:-1,SHahid Zaman
-http://stariptv.org:8080/basma2022/123456/130451
-#EXTINF:-1,SHahid Romance
-http://stariptv.org:8080/basma2022/123456/130452
-#EXTINF:-1,SHahid Horror
-http://stariptv.org:8080/basma2022/123456/130453
-#EXTINF:-1,SHahid Clip
-http://stariptv.org:8080/basma2022/123456/130454
-#EXTINF:-1,SHahid Cinema.mp4
-http://stariptv.org:8080/basma2022/123456/130455
-#EXTINF:-1,SHahid Aflam_1
-http://stariptv.org:8080/basma2022/123456/130456
-#EXTINF:-1,SHahid Aflam2
-http://stariptv.org:8080/basma2022/123456/130457
-#EXTINF:-1,SHahid Action
-http://stariptv.org:8080/basma2022/123456/130458
-#EXTINF:-1,SHahid quran
-http://stariptv.org:8080/basma2022/123456/130459
-#EXTINF:-1,SHAHID HOLLYWOOD
-http://stariptv.org:8080/basma2022/123456/106897
-#EXTINF:-1,SHAHID SYRIA
-http://stariptv.org:8080/basma2022/123456/106229
-#EXTINF:-1,SHAHID KHALIJI
-http://stariptv.org:8080/basma2022/123456/106094
-#EXTINF:-1,SHAHID TURKEY
-http://stariptv.org:8080/basma2022/123456/105847
-#EXTINF:-1,SHAHID EGYPT
-http://stariptv.org:8080/basma2022/123456/105766
+#EXTINF:-1,shahid-movies 
+https://cdxaws-ak.akamaized.net/v1/channel/movies/index_hls.m3u8
+#EXTINF:-1,shahid-الهيبة 
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Hayba/index_hls.m3u8
+#EXTINF:-1,shahid Comedy 
+https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
+#EXTINF:-1,shahid-egypt 
+https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
+#EXTINF:-1,shahid-الحفرة 
+https://cdxaws-ak.akamaized.net/v1/channel/The_Pit/index_hls.m3u8
